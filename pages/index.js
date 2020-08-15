@@ -10,9 +10,13 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+        <h1 className="text-3xl text-indigo-800">
+          Welcome to NextJS boilerplate
         </h1>
+
+      <div className="bg-gray-200">
+        test
+      </div>
 
         <p className={styles.description}>
           Get started by editing{' '}
