@@ -1,6 +1,9 @@
 const { colors } = require('tailwindcss/defaultTheme')
 
 module.exports = {
+  future: {
+    removeDeprecatedGapUtilities: true,
+  },
   purge: [
       './pages/**/*.js',
       './components/**/*.js'
@@ -96,7 +99,23 @@ module.exports = {
 
     },
     fontFamily: {
-      body: ['Nunito']
+      body: ['Nunito'],
+      sans: [
+        'Nunito',
+        'system-ui',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        '"Segoe UI"',
+        'Roboto',
+        '"Helvetica Neue"',
+        'Arial',
+        '"Noto Sans"',
+        'sans-serif',
+        '"Apple Color Emoji"',
+        '"Segoe UI Emoji"',
+        '"Segoe UI Symbol"',
+        '"Noto Color Emoji"',
+      ],
     }
     },
   },
