@@ -2,6 +2,9 @@ import Head from "next/head";
 import Link from "next/link";
 import PageHeader from "./page-header"
 import PageFooter from './page-footer'
+import Sidebar from './sidebar'
+
+
 export const siteTitle = "Ertan Kayalar";
 
 
@@ -23,7 +26,19 @@ export default function Layout({
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <PageHeader siteTitle={siteTitle}/>
-        <main className="container mx-auto py-5 text-gray-700">{children}</main>
+        <main className="container mx-auto py-4">
+        <div class="grid grid-cols-6 gap-4">
+                  <div class="main col-span-4 bg-white py-2 px-3">
+                  {children}
+                  </div>
+        <div class="sidebar col-span-2 bg-white">
+
+        <Sidebar />
+
+        </div>
+        </div>
+
+        </main>
       
       <PageFooter />
     </div>
