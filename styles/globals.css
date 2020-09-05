@@ -5,6 +5,13 @@
 @tailwind components;
 
 
+.post-content a {
+   @apply text-gray-700;
+}
+
+.post-content a:hover {
+   @apply text-gray-800;
+}
 
 .btn {
     @apply   bg-primary-700 text-gray-100 py-3 px-10 m-5 rounded border-primary-600 border-2;
