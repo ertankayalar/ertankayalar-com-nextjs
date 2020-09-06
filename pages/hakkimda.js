@@ -3,7 +3,7 @@ import Layout, { siteTitle } from "../components/layout";
 import PageTitle from '../components/page-title'
 export default function about() {
   return (
-    <Layout className="w-full">
+    <Layout>
       <Head>
         <title>Hakkımda - {siteTitle}</title>
       </Head>

@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Layout from '../../components/layout'
+import Layout, { siteTitle } from '../../components/layout'
 import { getAllPostIds, getPostData } from '../../lib/posts'
 import DateFormater from '../../components/date-formater'
 import AuthorPostInfo from '../../components/author-post-info'
@@ -11,7 +11,7 @@ export default function Post({ postData }) {
     return (
       <Layout>
         <Head>
-          <title>{postData.title}</title>
+          <title ey="title">{postData.title} - { siteTitle }</title>
         </Head>
         <article className="w-full mt-10 mb-32">
 
