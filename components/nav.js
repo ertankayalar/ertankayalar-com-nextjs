@@ -10,12 +10,13 @@ const links = [
 
   export default function Nav() {
     return (
-      <nav className="flex flex-wrap items-center md:justify-end space-x-4 h-24">
+      
+      <nav className="flex flex-wrap items-center justify-center mr-5 md:mr-0  md:justify-end space-x-4 h-auto md:h-24 text-gray-600">
         
           
             {links.map(({ href, label }) => (
               <Link key={`${href}${label}`} href={href}>
-                <a>{label}</a>
+                <a className="w-full text-right my-1 md:w-auto md:text-left hover:text-gray-800">{label}</a>
               </Link>
               
             ))}
@@ -23,3 +24,6 @@ const links = [
       </nav>
     )
   }
+
+
+  
