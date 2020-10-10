@@ -1,5 +1,7 @@
-import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
+import Head from 'next/head'
+import Link from 'next/link'
+
+import Layout, { siteTitle } from '../components/layout'
 import PageTitle from '../components/page-title'
 export default function about() {
   return (
@@ -8,17 +10,27 @@ export default function about() {
         <title>Hakkımda - {siteTitle}</title>
       </Head>
 
-      <article className="prose-lg">
-            <h1>Ertan Kayalar</h1>
-            <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto explicabo vel facilis quisquam laboriosam suscipit amet. Voluptates distinctio laborum id doloremque ad velit inventore eveniet suscipit magnam dolorem. Sequi, libero!
-            </p>
+      <article className='prose-lg'>
+        <h1>Merhaba</h1>
+        <p>Ben Ertan, 22 yıldır web developer olarak Denizli'de çalışıyorum.</p>
 
-            
-
-
+        <p>
+          Temel olarak HTML, CSS, Javascript kullanıyorum. React.js, Node,
+          Express, Gatsby, Next.js, Python ve Django üzerine odaklandım.
+        </p>
+        <p>
+          Ayrıca, PHP, Laravel, Symfony, MySQL, WordPress ile uzun yıllar web
+          sitesi geliştirdim.
+        </p>
+        <p>
+          <Link href='https://pazarlama.info.tr'>
+            <a>Dijital Pazarlama</a>
+          </Link>{' '}
+          hakkında çevrim içi kitap yazdım.
+        </p>
+        <h2>Biraz daha detay</h2>
+        <p></p>
       </article>
-
     </Layout>
-  );
+  )
 }
