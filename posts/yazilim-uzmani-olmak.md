@@ -142,25 +142,29 @@ UML, (Unified Modeling Language) nesneye yönelimli programlamada (OOP) sınıf 
 
 Yazılım geliştirme ile ilgili bu sayfaya sığmayacak kadar çok web sitesi bulunmaktadır. Bu nedenle sık ziyaret ettiğim veya faydalı yazılımların bulunduğu sitelerden seçtim.
 
-- <a href='https://developer.mozilla.org/tr/' rel='noreferrer noopener nofollow' target='\_blank'>Mozilla Developer Network:</a> Mozilla vakfının javascript ve uygulama geliştirme kütüphanesi
-- <a href='https://reactjs.org/' rel='noreferrer noopener nofollow'>React JS:</a> Facebook yazılım ekibinin geliştirdiği frontend js kütüphanesi
-- <a href='https://vuejs.org' rel='noreferrer noopener nofollow'>Vue JS</a>Progressive JS Framework
-- <a href='https://angular.io'>Angular JS</a> Google ekibinin geliştirdiği JS Framework
-- <a href='https://codex.wordpress.org/' rel='noreferrer noopener nofollow'   target='\_blank'> WordPress Codex:</a>WordPress programcılarının temel kaynağı
-- <a href='https://stackoverflow.com/' rel='noreferrer noopener nofollow'   target='\_blank'> Stack Overflow</a>Dünya genelinde programcıların birbirlerine sorular yönelttikleri, yardımlaştığı popüler site
-- <a href='https://git-scm.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Git</a>Git ile sürüm yönetim servis sağlayıcı
-- <a href='https://www.djangoproject.com/'>Django</a> Python Web Framework
-- <a href='https://flask.palletsprojects.com/'>Flask</a> Python Web Framework
-- <a href='https://symfony.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Symfony</a>Endüstri standardı olmuş PHP framework.
-- <a href='https://laravel.com/' rel='noreferrer noopener nofollow' target='\_blank'>Laravel</a>Popüler PHP framework
-- <a href='https://www.yiiframework.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Yii PHP Framework</a>
-- <a href='https://code.tutsplus.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Tutsplus</a> Kodlama üzerine yazılar
-- <a href='https://www.smashingmagazine.com/'  rel='noreferrer noopener nofollow' target='\_blank'> Smashing Magazine</a> Web Tasarım, grafik, kodlama yazıları
-- <a href='https://www.linkedin.com/learning/' rel='noreferrer noopener nofollow' target='\_blank'>Linkedin Learning</a> Video eğitim sitesi
-- <a href='https://www.udemy.com/' rel='noreferrer noopener nofollow'  target='\_blank'>Udemy</a> Video eğitim sitesi
-- <a href='https://www.asp.net/' rel='noreferrer noopener nofollow'  target='\_blank'>ASP.NET</a>Microsoft ASP.NET programcıları için web sitesi
-- <a href='https://atom.io/' rel='noreferrer noopener nofollow' target='_blank'>Atom Editör</a> Ücretsiz kodlama editörü
-- <a href='https://code.visualstudio.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Visual Studio Code</a> Microsoft'un ücretsiz editörü
+<ul>
+<li><a href='https://developer.mozilla.org/tr/' rel='noreferrer noopener nofollow' target='\_blank'> Mozilla Developer Network:</a> Mozilla vakfının javascript ve uygulama geliştirme kütüphanesi</li>
+<li><a href='https://reactjs.org/' rel='noreferrer noopener nofollow'>React JS:</a> Facebook yazılım ekibinin geliştirdiği frontend js kütüphanesi</li>
+<li><a href='https://vuejs.org' rel='noreferrer noopener nofollow'>Vue JS</a> Progressive JS Framework</li>
+<li><a href='https://angular.io'>Angular JS</a> Google ekibinin geliştirdiği JS Framework</li>
+<li><a href='https://codex.wordpress.org/' rel='noreferrer noopener nofollow'   target='\_blank'>WordPress Codex</a> WordPress programcılarının temel kaynağı</li>
+<li><a href='https://stackoverflow.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Stack Overflow</a> Dünya genelinde programcıların birbirlerine sorular yönelttikleri, yardımlaştığı popüler site</li>
+<li><a href='https://git-scm.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Git</a> Git ile sürüm yönetim servis sağlayıcı</li>
+<li><a href='https://www.djangoproject.com/'>Django</a> Python Web Framework</li>
+<li><a href='https://flask.palletsprojects.com/'>Flask</a> Python Web Framework</li>
+<li><a href='https://symfony.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Symfony</a> Endüstri standardı olmuş PHP framework.</li>
+<li><a href='https://laravel.com/' rel='noreferrer noopener nofollow' target='\_blank'>Laravel</a> Popüler PHP framework</li>
+<li><a href='https://www.yiiframework.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Yii PHP Framework</a></li>
+<li><a href='https://code.tutsplus.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Tutsplus</a> Kodlama üzerine yazılar</li>
+<li><a href='https://www.smashingmagazine.com/'  rel='noreferrer noopener nofollow' target='\_blank'> Smashing Magazine</a> Web Tasarım, grafik, kodlama yazıları</li>
+<li><a href='https://www.asp.net/' rel='noreferrer noopener nofollow'  target='\_blank'>ASP.NET</a> Microsoft ASP.NET programcıları için web sitesi</li>
+<li><a href='https://atom.io/' rel='noreferrer noopener nofollow' target='_blank'>Atom Editör</a> Ücretsiz kodlama editörü</li>
+<li><a href='https://code.visualstudio.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Visual Studio Code</a> Microsoft'un ücretsiz editörü</li>
+<li><a href='https://www.freecodecamp.org/' rel='noreferrer noopener nofollow'   target='\_blank'>FreeCodeCamp</a> Ücretsiz Kodlama Eğitimi</li>
+<li><a href='https://www.linkedin.com/learning/' rel='noreferrer noopener nofollow' target='\_blank'>Linkedin Learning</a>Ücretli Video eğitim sitesi</li>
+<li><a href='https://www.udemy.com/' rel='noreferrer noopener nofollow'  target='\_blank'>Udemy</a> Ücretli Video eğitim sitesi</li>
+
+</ul>
 
 ## Nereden başlamalı ? {#nereden-baslamali}
 

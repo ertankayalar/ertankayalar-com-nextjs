@@ -27,7 +27,7 @@ export default function Post({ postData }) {
         </div>
 
         <div
-          className='post-content prose-lg  pt-5 pb-10 text-gray-600 overflow-auto'
+          className='post-content prose-lg  pt-5 pb-10 text-gray-700 overflow-auto'
           dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
         />
 

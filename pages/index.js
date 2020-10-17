@@ -10,25 +10,30 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
-      <main className='container mx-auto'>
-        <div className='text-center font-bold my-10 border-b-2'>
-          <span className='text-lg md:text-2xl'>Merhaba, ben </span>
-          <h1 className='text-4xl  text-primary-800 pb-10 md:text-5xl'>
-            Ertan Kayalar
-          </h1>
-          <p className='text-3xl text-gray-700 md:text-4xl pb-10'>
-            web sitesi geliştirmeyi seviyorum
-          </p>
+      <main className='w-full'>
+        <div className='container mx-auto'>
+          <div className='text-center font-bold my-10 border-b-2'>
+            <span className='text-lg md:text-2xl'>Merhaba, ben </span>
+            <h1 className='text-4xl  text-primary-800 pb-10 md:text-5xl'>
+              Ertan Kayalar
+            </h1>
+            <p className='text-3xl text-gray-700 md:text-4xl pb-10'>
+              web sitesi geliştirmeyi seviyorum
+            </p>
+          </div>
         </div>
-        <div className='w-full py-10 text-lg md:text-2xl my-2 text-center md:text-left'>
-          <p className='py-5 '>
-            Full-stack web developer olarak Denizli'de çalışıyorum.
-          </p>
-          <p className='py-2'>
-            Son zamanlarda Javascript (Node.js, React.js, Next.js) ve Python
-            (Django) üzerine odaklandım. Ancak uzun yıllarda PHP (Laravel,
-            Symfony ve WordPress) üzerine çalıştım.
-          </p>
+
+        <div>
+          <div className='w-full py-10 text-lg md:text-2xl my-2 text-center md:text-left'>
+            <p className='py-5 '>
+              Full-stack web developer olarak Denizli'de çalışıyorum.
+            </p>
+            <p className='py-2'>
+              Son zamanlarda Javascript (Node.js, React.js, Next.js) ve Python
+              (Django) üzerine odaklandım. Ancak uzun yıllarda PHP (Laravel,
+              Symfony ve WordPress) üzerine çalıştım.
+            </p>
+          </div>
         </div>
         <div className='py-2 text-lg md:text-2xl my-10'>
           Eğer web sitesi ihtiyaçlarınız varsa benimle{' '}
@@ -65,7 +70,7 @@ export default function Home() {
             </p>
           </div>
           <Link href='htts://pazarlama.info.tr'>
-            <a className='btn' target='_blank'>
+            <a className='btn btn-sm lg:btn-lg' target='_blank'>
               pazarlama.info.tr
               <svg
                 class='w-6 h-6 inline-block m-2'

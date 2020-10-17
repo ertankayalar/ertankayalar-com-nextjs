@@ -9,15 +9,26 @@
 
 
 .post-content a {
-   @apply text-gray-700;
+   @apply text-primary-700;
 }
 
 .post-content a:hover {
-   @apply text-gray-800;
+   @apply text-indigo-600;
+}
+.post-content blockquote {
+   @apply bg-gray-100;
+   @apply py-2;
+   @apply rounded-lg;
+   @apply border border-gray-200;
+   
+}
+.post-content ul {
+   @apply list-inside;
+   @apply list-disc;
 }
 
 .btn {
-    @apply   bg-primary-700 text-gray-100 py-3 px-10 m-5 rounded border-primary-600 border-2;
+    @apply   bg-primary-700 py-3 px-10 m-5 rounded border-primary-600 border-2;
  }
  
 
@@ -53,6 +64,7 @@
 .btn-lg {
    @apply text-2xl;
 }
+
 
 
 @tailwind utilities;

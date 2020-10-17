@@ -4,12 +4,12 @@ import Link from 'next/link'
 export default function PageFooter() {
   return (
     <footer>
-      <ul className='bottom-navigation fixed bottom-0 left-0 z-20 bg-gray-100 w-full flex items-center justify-evenly lg:hidden h-20 text-xs md:text-md lg:text-lg'>
-        <li className='font-bold'>
+      <ul className='bottom-navigation fixed bottom-0 left-0 z-20 bg-gray-100 text-gray-700 w-full flex items-center justify-evenly lg:hidden h-20 text-xs md:text-md lg:text-lg'>
+        <li className='font-bold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
           <Link href='/'>
-            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary-700'>
               <svg
-                class='w-6 h-6'
+                class='w-6 h-6 text-gray-600'
                 fill='none'
                 stroke='currentColor'
                 viewBox='0 0 24 24'
@@ -27,11 +27,11 @@ export default function PageFooter() {
             </a>
           </Link>
         </li>
-        <li className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+        <li className='font-bold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
           <Link href='/blog/'>
-            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary-700'>
               <svg
-                class='w-6 h-6'
+                class='w-6 h-6 text-gray-600'
                 fill='none'
                 stroke='currentColor'
                 viewBox='0 0 24 24'
@@ -48,11 +48,11 @@ export default function PageFooter() {
             </a>
           </Link>
         </li>
-        <li className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+        <li className='font-bold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
           <Link href='/hakkimda/'>
-            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary-700'>
               <svg
-                class='w-6 h-6'
+                class='w-6 h-6 text-gray-600'
                 fill='none'
                 stroke='currentColor'
                 viewBox='0 0 24 24'
@@ -69,11 +69,11 @@ export default function PageFooter() {
             </a>
           </Link>
         </li>
-        <li className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+        <li className='font-bold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
           <Link href='/teknoloji/'>
-            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary-700'>
               <svg
-                class='w-6 h-6'
+                class='w-6 h-6 text-gray-600'
                 fill='none'
                 stroke='currentColor'
                 viewBox='0 0 24 24'
@@ -90,11 +90,11 @@ export default function PageFooter() {
             </a>
           </Link>
         </li>
-        <li className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+        <li className='font-bold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
           <Link href='/iletisim/'>
-            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary-700'>
               <svg
-                class='w-6 h-6'
+                class='w-6 h-6 text-gray-600'
                 fill='none'
                 stroke='currentColor'
                 viewBox='0 0 24 24'
@@ -116,7 +116,7 @@ export default function PageFooter() {
       <div className='w-full text-gray-600 py-10 border-t mt-20 mb-20'>
         <div className='container text-center mx-auto text-xs md:text-md lg:text-lg'>
           <svg
-            class='w-6 h-6 inline-block m-2'
+            class='w-6 h-6 inline-block m-2 text-gray-600'
             fill='none'
             stroke='currentColor'
             viewBox='0 0 24 24'

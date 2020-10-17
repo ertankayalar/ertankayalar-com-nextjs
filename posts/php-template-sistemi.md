@@ -161,12 +161,7 @@ Başlıca PHP Template sistemlerine örnek:
 
 - Symfony Framework için <a href="https://twig.symfony.com/" rel="noreferrer noopener nofollow" target="_blank">Twig</a>
 - Laravel <a href="https://laravel.com/docs/5.7/blade" rel="noreferrer noopener nofollow" target="_blank">Blade</a>
-- <a
-  href='https://wordpress.org/extend/themes/'
-  rel='noreferrer noopener nofollow'
-  target='\_blank'
-  > WordPress template sistemi
-  > </a>
+- <a href='https://wordpress.org/extend/themes/' rel='noreferrer noopener nofollow' target='\_blank'> WordPress template sistemi</a>
 
 Twig ve Blade şablon motorları framework dışında da tek başına kullanılabilmektedir.
 
