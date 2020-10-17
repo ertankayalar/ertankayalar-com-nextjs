@@ -10,15 +10,22 @@ export default function contact() {
       </Head>
 
       <div className='flex flex-col sm:flex-row justify-center space-y-12 space-x-0 sm:space-x-12 sm:space-y-0 items-start'>
-        <article className='w-full md:w-1/2 xl:w-2/3 h-auto prose-sm md:prose-lg'>
+        <div className='w-full md:w-1/3'>
+          <img
+            src='/assets/ek-medium-19v1-225x300.jpg'
+            alt='ertan kayalar'
+            className='mx-auto shadow-lg'
+          />
+        </div>
+        <article className='w-full md:w-2/3 h-auto prose-sm md:prose-lg py-10 text-center md:text-left'>
           <h1>İletişim</h1>
 
-          <p className='text-lg font-normal'>
+          <p className='text-md md:text-lg font-normal'>
             Benimle ilginiz iş, yazdığım içerikler veya konuşmak istediğiniz
             başka bir konu olsun, sizinle konuşmaktan memnun olurum.
           </p>
 
-          <p className='text-lg font-normal'>
+          <p className='text-md md:text-lg font-normal'>
             <span className='font-bold'>Tercih ettiğim</span> iletişim yolu
             <Link
               href='https://twitter.com/ertankayalar'
@@ -44,7 +51,7 @@ export default function contact() {
                 </svg>
               </a>
             </Link>{' '}
-            ve{' '}
+            veya{' '}
             <Link
               href='mailto:ertan@ertankayalar.com'
               className='cursor-pointer'

@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function PageFooter() {
   return (
     <footer>
-      <ul className='bottom-navigation fixed bottom-0 left-0 z-20 bg-gray-100 w-full flex items-center justify-evenly sm:hidden h-20'>
+      <ul className='bottom-navigation fixed bottom-0 left-0 z-20 bg-gray-100 w-full flex items-center justify-evenly lg:hidden h-20 text-xs md:text-md lg:text-lg'>
         <li className='font-bold'>
           <Link href='/'>
             <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
@@ -45,6 +45,27 @@ export default function PageFooter() {
                 ></path>
               </svg>
               <div>Blog</div>
+            </a>
+          </Link>
+        </li>
+        <li className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+          <Link href='/hakkimda/'>
+            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
+              <svg
+                class='w-6 h-6'
+                fill='none'
+                stroke='currentColor'
+                viewBox='0 0 24 24'
+                xmlns='http://www.w3.org/2000/svg'
+              >
+                <path
+                  stroke-linecap='round'
+                  stroke-linejoin='round'
+                  stroke-width='2'
+                  d='M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z'
+                ></path>
+              </svg>
+              <div>Hakkımda</div>
             </a>
           </Link>
         </li>
@@ -92,10 +113,10 @@ export default function PageFooter() {
         </li>
       </ul>
 
-      <div className='w-full text-gray-600 py-10 border-t mt-20'>
-        <div className='container text-center mx-auto'>
+      <div className='w-full text-gray-600 py-10 border-t mt-20 mb-20'>
+        <div className='container text-center mx-auto text-xs md:text-md lg:text-lg'>
           <svg
-            class='w-6 h-6 inline-block'
+            class='w-6 h-6 inline-block m-2'
             fill='none'
             stroke='currentColor'
             viewBox='0 0 24 24'
@@ -114,7 +135,7 @@ export default function PageFooter() {
             focusable='false'
             data-prefix='fas'
             data-icon='heart'
-            class='svg-inline--fa fa-heart w-6 h-6 inline-block text-red-700'
+            class='svg-inline--fa fa-heart w-6 h-6 inline-block m-2 text-red-600'
             role='img'
             xmlns='http://www.w3.org/2000/svg'
             viewBox='0 0 512 512'

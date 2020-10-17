@@ -1,21 +1,19 @@
 ---
 title: 'PHP Template sistemi'
 date: '2018-11-09'
-coverImage: '/assets/dijital-pazarlama-nedir.png'
 ---
 
 Web sayfaları birbirinden farklı sayfa düzenleri (layout) içerisinde oluşturulurlar. **PHP template** sistemi ile bu düzenler şablon yapısı ile kullanılır.
 
 ## Neden PHP Template (şablon) ihtiyacı var ?
 
-Web sayfalarında üstte, allta ve yandaki bölümler çoğu sayfada benzerlikler gösterir. 
+Web sayfalarında üstte, allta ve yandaki bölümler çoğu sayfada benzerlikler gösterir.
 
-<img src="https://ertankayalar.com/wp-content/uploads/2018/11/php-template-sistemi-ornek.png" alt="php template sistemi örnek" width="501" height="157" class="alignnone size-full wp-image-8567" />
+![php template sistemi örneği](/assets/blog/php-template-sistemi-ornek.png)
 
-Örneğin başlık kısmında menü, site adı gibi bilgiler diğer tüm sayfalarda değişmez. Alt kısımda ise site sahibinin adresi, telefon ve email bilgisi vb bir bölüm de aynı şekildedir. Eğer template (şablon) kullanmazsanız bu bilgileri her seferinde diğer sayfalara da kopyalamanız gerekir. 
+Örneğin başlık kısmında menü, site adı gibi bilgiler diğer tüm sayfalarda değişmez. Alt kısımda ise site sahibinin adresi, telefon ve email bilgisi vb bir bölüm de aynı şekildedir. Eğer template (şablon) kullanmazsanız bu bilgileri her seferinde diğer sayfalara da kopyalamanız gerekir.
 
-Bir seferlik iş için bu belki size sorun gibi görünmeyecektir. Ancak onlarca sayfadan oluşan bir sitenin menüsüne yapacağınız bir değişiklik için tüm sayfaları elden geçirmeniz gerektiğinde çok uğraşacaksınız demektir. 
-
+Bir seferlik iş için bu belki size sorun gibi görünmeyecektir. Ancak onlarca sayfadan oluşan bir sitenin menüsüne yapacağınız bir değişiklik için tüm sayfaları elden geçirmeniz gerektiğinde çok uğraşacaksınız demektir.
 
 ## PHP ve Template Sistemi
 
@@ -29,8 +27,7 @@ Temel bir web sayfasının bölümlerine bir bakalım.
 
 PHP template oluşturmada temel mantık **tekrar eden bölümleri ayırmak ve bunları her yeni sayfada otomatik olarak eklenmesini sağlamaktır.**
 
-Aşağıda basit bir html sayfa örneğimiz var. 
-
+Aşağıda basit bir html sayfa örneğimiz var.
 
 ```html
 <html>
@@ -56,9 +53,6 @@ Aşağıda basit bir html sayfa örneğimiz var.
 </html>
 ```
 
-
-
-
 Yukarıdaki basit örnekte olduğu gibi oluşturacağınız bir sitenin her sayfasında sayfa başlığı ve sayfa içeriğinin değişeceğini varsayalım. Bunun dışındaki diğer bölümlerin de tekrar edilmesi gerecektir.
 
 Bu durumda sayfanızı PHP’nin birkaç komutuyla php template sistemine dönüştürebiliriz.
@@ -77,11 +71,8 @@ Bu durumda sayfanızı PHP’nin birkaç komutuyla php template sistemine dönü
     </div>
 ```
 
-
-
-
-
 **footer.php** ile alt bölüm:
+
 ```html
  <div id="footer">
         <p>
@@ -92,11 +83,10 @@ Bu durumda sayfanızı PHP’nin birkaç komutuyla php template sistemine dönü
 </html>
 ```
 
-
-
 Aşağıdaki php ana sayfamız ilk örnekte verdiğimiz kod ile aynı çıktıyı üretecektir.
 
 **index.php**
+
 ```php
 <?php require('header.php'); ?>
 
@@ -109,10 +99,10 @@ Aşağıdaki php ana sayfamız ilk örnekte verdiğimiz kod ile aynı çıktıy�
 <?php require('footer.php'); ?>
 ```
 
-
 Artık 2. sayfamız için bu yapıyı kullanmaya devam edebiliriz.
 
 **altsayfa.php**
+
 ```php
 <?php require('header.php'); ?>
 
@@ -125,13 +115,11 @@ Artık 2. sayfamız için bu yapıyı kullanmaya devam edebiliriz.
 <?php require('footer.php'); ?>
 ```
 
-Gördüğünüz gibi PHP'ye ait tek bir *require* komutu ile basit bir php template sistemi oluşturduk.
+Gördüğünüz gibi PHP'ye ait tek bir _require_ komutu ile basit bir php template sistemi oluşturduk.
 
 Burada her sayfanın etiketleri içerisinde de sayfa başlıklarının değiştiğini düşünecek olursak ufak bir kod daha ilave etmemiz gerekir.
 
-
 **header.php**
-
 
 ```php
 <html>
@@ -145,9 +133,7 @@ Burada her sayfanın etiketleri içerisinde de sayfa başlıklarının değişti
     </div>
 ```
 
-
-
-Header üzerinde $title isminde bir değişken tanımlanmış ise bunu yazdırmasını istedik. Şimdi bu değişkene header dosyasını çağıracağımız ana dosyada bir tanım yapalım.
+Header üzerinde \$title isminde bir değişken tanımlanmış ise bunu yazdırmasını istedik. Şimdi bu değişkene header dosyasını çağıracağımız ana dosyada bir tanım yapalım.
 
 **altsayfa.php**
 
@@ -165,9 +151,7 @@ alt sayfa içeriği
 <?php require('footer.php'); ?>
 ```
 
-
-altsayfa.php’de tanımladığımız $title değişkeninin ardından çağırdığımız header içerisinde html etikeninde gösterilmiş olacaktır. Bu örnekte basit bir tanımlama yaptık. Siz farklı ihtiyaçlarınız için değişken sayısını arttırabilirsiniz. PHP template yapısınızı belirli koşullara göre sidebar vb bölümler ekleyerek geliştirebilirsiniz.
-
+altsayfa.php’de tanımladığımız \$title değişkeninin ardından çağırdığımız header içerisinde html etikeninde gösterilmiş olacaktır. Bu örnekte basit bir tanımlama yaptık. Siz farklı ihtiyaçlarınız için değişken sayısını arttırabilirsiniz. PHP template yapısınızı belirli koşullara göre sidebar vb bölümler ekleyerek geliştirebilirsiniz.
 
 ## PHP template kütüphaneleri
 
@@ -175,12 +159,16 @@ PHP template sistemi gelişmiş olarak pek çok yazılımda kullanılmaktadır. 
 
 Başlıca PHP Template sistemlerine örnek:
 
-* Symfony Framework için <a href="https://twig.symfony.com/" rel="noreferrer noopener nofollow" target="_blank">Twig</a>
-* Laravel <a href="https://laravel.com/docs/5.7/blade" rel="noreferrer noopener nofollow" target="_blank">Blade</a>
-* <a href="https://wordpress.org/extend/themes/" rel="noreferrer noopener nofollow" target="_blank">WordPress template sistemi</a>
+- Symfony Framework için <a href="https://twig.symfony.com/" rel="noreferrer noopener nofollow" target="_blank">Twig</a>
+- Laravel <a href="https://laravel.com/docs/5.7/blade" rel="noreferrer noopener nofollow" target="_blank">Blade</a>
+- <a
+  href='https://wordpress.org/extend/themes/'
+  rel='noreferrer noopener nofollow'
+  target='\_blank'
+  > WordPress template sistemi
+  > </a>
 
-Twig ve Blade şablon motorları framework dışında da tek başına kullanılabilmektedir. 
-
+Twig ve Blade şablon motorları framework dışında da tek başına kullanılabilmektedir.
 
 ## PHP Template Sistemlerinin Geleceği
 
@@ -188,12 +176,4 @@ PHP Template sistemleri, javascript kütüphaneleri, frameworkler ve CSS framewo
 
 Yeni başlayanlar için yukarıda bahsettiğim basit bir şablon işinizi görecektir. Ancak ileri düzeyde uygulama geliştirirken topluluklar tarafından geliştirilen **Twig** veya **Blade** gibi template sistemleri kullanmanızı tavsiye ederim.
 
-
-
-
 Eğer bu yazıyı beğendiyseniz paylaşmayı unutmayın.
-
-Pinterest için bu grafiği kullanabilirsiniz.
-
-<img src="https://ertankayalar.com/wp-content/uploads/2018/11/php-template-sistemi-pin.png" alt="" width="600" height="900" class="alignleft size-full wp-image-8573" />
-

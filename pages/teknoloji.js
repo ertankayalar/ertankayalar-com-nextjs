@@ -9,7 +9,7 @@ export default function contact() {
         <title>Kullandığım Teknolojiler - {siteTitle}</title>
       </Head>
 
-      <article className='prose-sm md:prose-lg'>
+      <article className='prose-sm lg:prose-lg'>
         <h1>Kullandığım Teknolojiler</h1>
 
         <p className='text-lg font-normal'>
@@ -36,7 +36,7 @@ export default function contact() {
             </svg>
           </h2>
 
-          <ul className='text-base text-light-secondary pl-4 list-disc ml-5'>
+          <ul className='text-light-secondary pl-4 list-disc ml-5'>
             <li>
               Code Editör{' ~ '}
               <Link href='https://code.visualstudio.com'>
@@ -105,7 +105,7 @@ export default function contact() {
               ></path>
             </svg>
           </h2>
-          <ul className='text-base text-light-secondary pl-4 list-disc ml-5'>
+          <ul className='text-light-secondary pl-4 list-disc ml-5'>
             <li>
               İşletim Sistemi{' ~ '}
               <Link href='https://pop.system76.com/'>
@@ -132,14 +132,14 @@ export default function contact() {
             </li>
             <li>
               Email {' ~ '}
-              <Link href='https://wiki.gnome.org/Apps/Geary'>
+              <Link href='https://getmailspring.com/'>
                 <a className='text-light-accent font-bold border-transparent border-b-2 hover:border-light-accent  border-b-light-accent  transition duration-500 ease-in-out'>
-                  Geary
+                  Mailspring
                 </a>
               </Link>
             </li>
             <li>
-              Görev Yönetimi{' ~ '}
+              Görev & Proje Yönetimi{' ~ '}
               <Link href='https://trello.com'>
                 <a className='text-light-accent font-bold border-transparent border-b-2 hover:border-light-accent  border-b-light-accent  transition duration-500 ease-in-out'>
                   Trello
@@ -165,7 +165,7 @@ export default function contact() {
               ></path>
             </svg>
           </h2>
-          <ul className='text-base text-light-secondary pl-4 list-disc ml-5'>
+          <ul className='text-light-secondary pl-4 list-disc ml-5'>
             <li>
               Markdown Editör{' ~ '}
               <Link href='https://ia.net/writer'>
@@ -175,10 +175,10 @@ export default function contact() {
               </Link>
             </li>
             <li>
-              Görev Yönetimi{' ~ '}
+              Görev & Proje Yönetimi{' ~ '}
               <Link href='https://trello.com'>
                 <a className='text-light-accent font-bold border-transparent border-b-2 hover:border-light-accent  border-b-light-accent  transition duration-500 ease-in-out'>
-                  Trello
+                  Trello App
                 </a>
               </Link>
             </li>

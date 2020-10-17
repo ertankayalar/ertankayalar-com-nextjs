@@ -4,16 +4,11 @@ module.exports = {
   future: {
     removeDeprecatedGapUtilities: true,
   },
-  purge: [
-      './pages/**/*.js',
-      './components/**/*.js'
-    
-  ],
+  purge: ['./pages/**/*.js', './components/**/*.js'],
   theme: {
     extend: {
       colors: {
-        
-        orange:  {
+        orange: {
           100: '#ffe0b2',
           200: '#ffcc80',
           300: '#ffb74d',
@@ -23,9 +18,9 @@ module.exports = {
           700: '#ff6d00',
           800: '#ef6c00',
           900: '#e65100',
-         },
-         brown: {
-           50: '#efebe9',
+        },
+        brown: {
+          50: '#efebe9',
           100: '#d7ccc8',
           200: '#bcaaa4',
           300: '#a1887f',
@@ -35,9 +30,9 @@ module.exports = {
           700: '#5d4037',
           800: '#4e342e',
           900: '#3e2723',
-         },
-         bluegray: {
-           50: '#eceff1',
+        },
+        bluegray: {
+          50: '#eceff1',
           100: '#cfd8dc',
           200: '#b0bec5',
           300: '#90a4ae',
@@ -47,9 +42,9 @@ module.exports = {
           700: '#455a64',
           800: '#37474f',
           900: '#263238',
-         },
-         lightgreen: {
-           50: '#f1f8e9',
+        },
+        lightgreen: {
+          50: '#f1f8e9',
           100: '#dcedc8',
           200: '#c5e1a5',
           300: '#aed581',
@@ -59,9 +54,9 @@ module.exports = {
           700: '#689f38',
           800: '#558b2f',
           900: '#33691e',
-         },
-         lightgray: {
-           50: '#fafafa',
+        },
+        lightgray: {
+          50: '#fafafa',
           100: '#f5f5f5',
           200: '#eeeeee',
           300: '#e0e0e0',
@@ -71,21 +66,21 @@ module.exports = {
           700: '#616161',
           800: '#424242',
           900: '#212121',
-         },
+        },
 
-         primary: {
-            100: '#ffe0b2',
-            200: '#ffcc80',
-            300: '#ffb74d',
-            400: '#ffa726',
-            500: '#ff9800',
-            600: '#fb8c00',
-            700: '#ff6d00',
-            800: '#ef6c00',
-            900: '#e65100',
-         },
-         secondary: {
-           50: '#fafafa',
+        primary: {
+          100: '#ffe0b2',
+          200: '#ffcc80',
+          300: '#ffb74d',
+          400: '#ffa726',
+          500: '#ff9800',
+          600: '#fb8c00',
+          700: '#ff6d00',
+          800: '#ef6c00',
+          900: '#e65100',
+        },
+        secondary: {
+          50: '#fafafa',
           100: '#f5f5f5',
           200: '#eeeeee',
           300: '#e0e0e0',
@@ -95,32 +90,29 @@ module.exports = {
           700: '#616161',
           800: '#424242',
           900: '#212121',
-         },
-
-    },
-    fontFamily: {
-      body: ['Nunito'],
-      sans: [
-        'Nunito',
-        'system-ui',
-        '-apple-system',
-        'BlinkMacSystemFont',
-        '"Segoe UI"',
-        'Roboto',
-        '"Helvetica Neue"',
-        'Arial',
-        '"Noto Sans"',
-        'sans-serif',
-        '"Apple Color Emoji"',
-        '"Segoe UI Emoji"',
-        '"Segoe UI Symbol"',
-        '"Noto Color Emoji"',
-      ],
-    }
+        },
+      },
+      fontFamily: {
+        body: ['Poppins'],
+        sans: [
+          'Poppins',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          '"Segoe UI"',
+          'Roboto',
+          '"Helvetica Neue"',
+          'Arial',
+          '"Noto Sans"',
+          'sans-serif',
+          '"Apple Color Emoji"',
+          '"Segoe UI Emoji"',
+          '"Segoe UI Symbol"',
+          '"Noto Color Emoji"',
+        ],
+      },
     },
   },
   variants: {},
-  plugins: [
-    require('@tailwindcss/typography'),
-  ],
+  plugins: [require('@tailwindcss/typography')],
 }
