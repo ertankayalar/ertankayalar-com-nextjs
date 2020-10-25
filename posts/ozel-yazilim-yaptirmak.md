@@ -9,23 +9,23 @@ Neredeyse 30 yıldır kodlamaya uğraşıyorum. Hazırlıksız girişilen pek ç
 
 Bu nedenle özel yazılım yaptırmadan önce aşağıdaki önemli noktaları kavramak size çok kritik avantajlar sağlayacaktır.
 
-- [1) Okumayı ve yazmayı sevin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#okuma)
-- [2) İsteklerinizi listeleyin](https://ertankayalar.com/ozel-yazilim-yaptirmak/#listele)
-- [3) Planlı olun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#plan)
-- [4) Yazılım geliştirme ekibine zaman ayırın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#zaman)
-- [5) İşveren değil partner](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#partner)
-- [6) Herkesin projeye katkı yapmasını sağlayın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#herkes)
-- [7) Özel yazılım ucuz bir iş değildir](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#ucuz-degildir)
-- [8) Sabırlı olun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#sabirli-olun)
-- [9) Aşamalara bölerek çalışın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#asamalara-bolun)
-- [10) Çok fazla şeyi aynı anda hedeflemeyin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#daha-az-hedefler-belirleyin)
-- [11) Tekerleği yeniden icat etmelerini istemeyin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#haziri-kullanin)
-- [12) İletişiminiz daima yazılı olsun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#yazili-iletisim)
-- [13) Bir sözleşmeniz olsun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#sozlesme)
-- [14) Yazılımın tamamlanmasından sonrasını da düşünün](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#bakim)
-- [15) Bonus püf noktası: Size doğruları söyleyen bir programcı ile çalışın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#gercekler)
+1. [ Okumayı ve yazmayı sevin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#okuma)
+1. [ İsteklerinizi listeleyin](https://ertankayalar.com/ozel-yazilim-yaptirmak/#listele)
+1. [ Planlı olun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#plan)
+1. [ Yazılım geliştirme ekibine zaman ayırın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#zaman)
+1. [ İşveren değil partner](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#partner)
+1. [ Herkesin projeye katkı yapmasını sağlayın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#herkes)
+1. [ Özel yazılım ucuz bir iş değildir](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#ucuz-degildir)
+1. [ Sabırlı olun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#sabirli-olun)
+1. [ Aşamalara bölerek çalışın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#asamalara-bolun)
+1. [ Çok fazla şeyi aynı anda hedeflemeyin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#daha-az-hedef-belirleyin)
+1. [ Tekerleği yeniden icat etmelerini istemeyin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#haziri-kullanin)
+1. [ İletişiminiz daima yazılı olsun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#yazili-iletisim)
+1. [ Bir sözleşmeniz olsun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#sozlesme)
+1. [ Yazılımın tamamlanmasından sonrasını da düşünün](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#bakim)
+1. [ Bonus püf noktası: Size doğruları söyleyen bir programcı ile çalışın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#gercekler)
 
-<h2 id='okuma'>1) Okumayı ve yazmayı sevin</h2>
+## 1) Okumayı ve yazmayı sevin {#okuma}
 
 Günümüz dünyasında hemen yazı ile iletişim standart oldu. Ancak şöyle sözleri sıkça duyuyorum:
 
@@ -56,7 +56,7 @@ _Yazılım projesi, adı üstüne yazarak yapılan bir çalışmadır._ Probleml
 ve ihtiyaçlarınızı yazılımcının, iş ortaklarınızın ve kalan herkesin anlayacağı bir
 metinde toplayabilirseniz ilk adımı doğru atmışsınız demektir.
 
-<h2 id='listele'>2) İsteklerinizi listeleyin</h2>
+## 2) İsteklerinizi listeleyin {#listele}
 
 ![bir liste yapın](/assets/blog/bir-liste-yapin.jpg)
 
@@ -66,7 +66,7 @@ Bu metin, şirketinizdeki ilgili herkesin kontrolünden geçmeli. Bu talepler, y
 
 **Ne istediğinizi belirlemeden özel yazılım işine başlamayın.**
 
-<h2 id='plan'>3) Planlı olun</h2>
+## 3) Planlı olun {#plan}
 
 Projenizle ilgili ana hatlarını belirledikten sonra yazılım geliştirici ile birlikte etkili bir plan yapın. Ana hatları belirleyin. Önemli ve kritik noktaları gözden kaçırmamaya çalışın.
 
@@ -76,7 +76,7 @@ Ev yaptırırken plan yaparız, yola çıkarken ve hatta hafta sonu gezerken bil
 
 **Plansız iş yapmayın!**
 
-<h2 id='zaman'>4) Yazılım geliştirme ekibine zaman ayırın</h2>
+## 4) Yazılım geliştirme ekibine zaman ayırın {#zaman}
 
 ![yazılım toplantısı](/assets/blog/toplanti-yazilim.jpg)
 
@@ -88,7 +88,7 @@ Ayrıca karşınızdaki insanların zamanına saygı göstermemek de iyi bir dav
 
 **Yazılım ekibi ile toplantılarda kesintisiz bir ortam çok daha etkili sonuçlar üretecektir.**
 
-<h2 id='partner'>5) İşveren değil partner</h2>
+## 5) İşveren değil partner {#partner}
 
 Özel yazılım projeniz ancak sizin katkınızla başarılı olabilir. Sadece para vererek işinizin bittiğini düşünmeyin.
 
@@ -139,19 +139,15 @@ Yazılımın çözmeye çalıştığı konudaki sorunları yaşayan kişiler ile
   charset='utf-8'
 ></script>
 
-<h2 id='ucuz-degildir'>7) Özel yazılım ucuz bir iş değildir</h2>
+## 7) Özel yazılım ucuz bir iş değildir {#ucuz-degildir}
 
-Pek çok girişimci, <a href="https://ertankayalar.com.tr/sozluk/ozel-yazilim/">özel yazılım ile paket yazılımın arasındaki farkı</a> anlamıyor. Ücretsiz indirdiğiniz bir mobil uygulamanın maliyeti milyon dolarlar olabilir. Özel yazılımın maliyetli bir iş olduğunun bilincinde olun.
+Pek çok girişimci, özel yazılım ile paket yazılımın arasındaki farkı anlamıyor. Ücretsiz indirdiğiniz bir mobil uygulamanın maliyeti milyon dolarlar olabilir. Özel yazılımın maliyetli bir iş olduğunun bilincinde olun.
 
 Dışarıda sayısız ücretsiz yazılım var. Açık kaynak kodlu yazılımlar hayat kurtarır.
 
----
+Uzun süre web siteleri oluştururken [WordPress](https://tr.wordpress.org) kullandık. WordPress, daha düşük maliyete daha çok fonksiyon ve özelliklere sahip web siteleri sahip olma fırsatı veriyor.
 
-Web Tasarım Sitesi'inde WordPress kullanıyoruz. WordPress müşterilerimize daha düşük maliyete daha çok fonksiyon ve özelliklere sahip web siteleri sahip olma fırsatı veriyor.
-
-Ancak herşeyi WordPress ile çözmek mümkün değil. WordPress ile tema ve eklenti programlamak mümkün. Tamamen özel yazılım yaptırmak isteyenler için için Symfony veya Laravel PHP Framework ile çözümler hazırlıyoruz.
-
----
+Ancak herşeyi WordPress ile çözmek mümkün değil. WordPress ile tema ve eklenti programlamak mümkün. Her özel yazılımın ihtiyacına göre farklı araçlar kullanılması gerekiyor. Bu noktada [Symfony](https://ertankayalar.com.tr/blog/symfony-framework/) veya [Laravel](https://laravel.com) PHP frameworklerden başlayarak [Django](https://djangoproject.com) veya [NextJS](https://nextjs.org) gibi teknolojiler öneriyorum.
 
 Projenin ihtiyaçları ve hedefleri hangi teknolojiyi seçmemiz gerektiğine karar vermemizi sağlıyor.
 
@@ -159,13 +155,13 @@ Projenin ihtiyaçları ve hedefleri hangi teknolojiyi seçmemiz gerektiğine kar
 
 Eğer bütçeniz yeterli değilse hazır çözümlerden size en uygununu tercih etmeye çalışın.
 
-<h2 id='sabirli-olun'>8) Sabırlı olun</h2>
+## 8) Sabırlı olun {#sabirli-olun}
 
 ![yazılım geliştirmede sabırlı olun](/assets/blog/yazilim-gelistirme-zaman.jpg)
 
 Yazılım geliştirme uzun dönemli bir iştir. Her şey planlı bile olsa beklenmedik sorunlar ortaya çıkabilir. Gecikmeler yaşanabilir. Dünyanın en büyük yazılım şirketleri bile yazılım gecikmeleri yaşarlar.
 
-<h2 id='asamalara-bolun'>9) Aşamalara bölerek çalışın</h2>
+## 9) Aşamalara bölerek çalışın {#asamalara-bolun}
 
 En önemli adımlardan başlayarak yazılımı aşamalara bölün.
 
@@ -173,20 +169,15 @@ Ben aylık safhaları tercih ediyorum. Her ay tamamlanan işleri denetlemek daha
 
 Gecikmeler olursa mutlaka takipçisi olun.
 
-<h2 id='daha-az-hedefler-belirleyin'>
-  10) Çok fazla şeyi aynı anda hedeflemeyin
-</h2>
+## 10) Çok fazla şeyi aynı anda hedeflemeyin {#daha-az-hedef-belirleyin}
 
 Yazılım geliştirme projesinde küçük adımlarla hedeflerinize ulaştıracak bir plan yapın. Aynı anda birden fazla hedefe odaklanıp projeyi sabote etmeyin.
 
-<strong>
-  Özel yazılım geliştirmenin karşısındaki en önemli tehlike, acele ederek sonuca
-  çabuk ulaşacağını sanmaktır.
-</strong> Hızlı ve çok fazla hedefi yapmaya çalışırken hata yapma riskinizi arttırırsınız.
+**Özel yazılım geliştirmenin karşısındaki en önemli tehlike, acele ederek sonuca çabuk ulaşacağını sanmaktır.** Hızlı ve çok fazla hedefi yapmaya çalışırken hata yapma riskinizi arttırırsınız.
 
 Önem derecesine göre bir plan yapın. En önemli bölümleri gerçekleştirdikten sonra kalanları yaparak devam edin.
 
-<h2 id='haziri-kullanin'>11) Tekerleği yeniden icat etmelerini istemeyin</h2>
+## 11) Tekerleği yeniden icat etmelerini istemeyin {#haziri-kullanin}
 
 Mümkün oldukça "hazır malzeme" kullanın. Problemlerinizi çözecek parçalar daha önce başkaları tarafından hazırlanmış olabilir. Programcıya bunları kullanıp kullanamayacağını sorun.
 
@@ -194,30 +185,19 @@ WordPress, binlerce eklenti ve teması ile kısa sürede bir web sitesi kurmanı
 
 Drupal, Joomla veya Prestashop gibi hazır açık kaynak pek çok çözüm de aynı yoldan gider.
 
-PHP Framework'ler, hazır programlama altyapısı sunarak, içine sayısız hazır küçük programcıklar kurmanızı sağlarlar. Bu proje süresini ve bakım maliyetlerini azaltır.
+Python, Javascript veya PHP Frameworkler, hazır programlama altyapısı sunarak, içine sayısız hazır küçük programcıklar kurmanızı sağlarlar. Bu proje süresini ve bakım maliyetlerini azaltır.
 
-- <a
-  href='https://laravel.com'
-  rel='noreferer noopener nofollow noreferrer'
-  target='\_blank'
-  > Laravel
-  > </a>
-- <a
-  href='https://symfony.com'
-  rel='noreferer noopener nofollow noreferrer'
-  target='\_blank'
-  > Symfony PHP Framework
-  > </a>
-- <a
-  href='https://www.yiiframework.com'
-  rel='noreferer noopener nofollow noreferrer'
-  target='\_blank'
-  > Yii
-  > </a>
+- [Laravel](https://laravel.com)
+- [Symfony](https://symfony.com)
+- [Django](https://djangoproject.com)
+- [Next.Js](https://nextjs.org)
+- [Yii Framework](https://www.yiiframework.com)
+- [Nuxt.Js](https://nuxtjs.org/)
 
-[Oku: Özel yazılım teknolojileri seçerken neden dikkatli olmalı ?](https://ertankayalar.com.tr/yazilim-teknolojileri/)
+Yazılım teknolojileri ile igili daha fazla ayrıntıyı aşağıdaki yazımda bulabilirsiniz.
+[Özel yazılım teknolojileri seçerken neden dikkatli olmalı ?](https://ertankayalar.com.tr/blog/yazilim-teknolojileri/)
 
-<h2 id='yazili-iletisim'>12) İletişiminiz daima yazılı olsun</h2>
+## 12) İletişiminiz daima yazılı olsun {#yazili-iletisim}
 
 En başta söylediğim gibi: yazmayı sevin. İletişiminiz yazılı olursa, arada konuşulmayan, unutulan veya atlanan konular olmaz.
 
@@ -225,17 +205,17 @@ En başta söylediğim gibi: yazmayı sevin. İletişiminiz yazılı olursa, ara
 
 Ben saatlerce telefon konuşması yapmak yerine dökümantasyonu tercih ediyorum.
 
-<h2 id='sozlesme'>13) Bir sözleşmeniz olsun</h2>
+## 13) Bir sözleşmeniz olsun {#sozlesme}
 
 Her iki tarafın da kazanacağı bir sözleşme yapın.
 
-<strong>Sözleşme yapmadan bir işe başlamayın.</strong>
+**Sözleşme yapmadan bir işe başlamayın.**
 
 Sözleşmenin anlamadığınız maddeleri varsa bunu sorun.
 
 Ekte teknik jargondan uzak proje detayları ve basit aylık projenin planlandığı bir zaman tablosu sunmalarını isteyin.
 
-<h2 id='bakim'>14) Yazılımın tamamlanmasından sonrasını da düşünün</h2>
+## 14) Yazılımın tamamlanmasından sonrasını da düşünün {#bakim}
 
 Özel yazılımda işiniz tamamlanmakla bitmez. Yazılımın bakımı da çok kritik bir noktayı oluşturur.
 
@@ -245,28 +225,21 @@ Yukarıda bahsettiğim PHP frameworkler gibi uzun dönem desteklenen yazılımla
 
 Yazılım yaşayan bir projedir. Sürekli geliştirilmeye açık olması ve hatalardan ayıklanması gerekir.
 
-<h2 id='gercekler'>
-  14) Bonus püf noktası: Size doğruları söyleyen bir programcı ile çalışın
-</h2>
+## 15) Bonus püf noktası: Size doğruları söyleyen bir programcı ile çalışın {#gercekler}
 
 ![riskler](/assets/blog/yazilim-gelistirme-riskler.jpg)
 
 Özel yazılım projesi pek çok risk taşır. Bu riskler, projenin gecikmesi, hatalı çalışması veya projenin bir türlü tamamlanmaması vb. şekilde gerçekleşebilir. Bu risklerin gerçekleşmeden önce işaretlerini ilk gören kişiler yazılım geliştiricilerdir.
 
-<strong>
-  Size olumsuzlukları açıkça ve erken söyleyebilecek bir yazılım geliştirici ile
-  çalışın.
-</strong>
+**Size olumsuzlukları açıkça ve erken söyleyebilecek bir yazılım geliştirici ile çalışın.**
 
 Zararlarınızı erken telafi etmek gibisi yoktur.
 
-<h2>Sonuç</h2>
+## Sonuç
 
 Pek çok girişimci için özel yazılım geliştirme hayal kırıklığı veya çok zor bir iş olarak hatırda kalır. Aslında özel yazılım karmaşıktır ve iyi planlanmadığı takdirde kolayca raydan çıkabilecek bir çalışmadır.
 
-<em>
-  Özel yazılım yaptırmak isteyen herkes doğru katkıları yapmak zorundadır.
-</em>
+_Özel yazılım yaptırmak isteyen herkes doğru katkıları yapmak zorundadır._
 
 Eğer iyi bir planlama yapar doğru kişilerden oluşan bir ekip oluşturabilirseniz başarılı olmanıza herhangi bir engel yoktur. Size bahsettiğim temel noktalara dikkat ederek kolayca risklerinizi azaltabilirsiniz.
 

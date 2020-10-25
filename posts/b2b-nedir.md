@@ -31,14 +31,6 @@ B2B pazarına cep telefonu üretimini örnek gösterebiliriz. Hemen herkes bir c
 
 Gerçek dünyada B2B örnekleri, tahmin edebileceğinizden çoktur. Dropbox, işletmelere ve birekylere bulut hizmeti veriyor. SaaS temelli çalışan pek çok bulut işletmesi şirketlere hizmet sağlıyor. Örneğin Microsoft'un Office 365 ürünü bulut üzerinde ofis dosyalarını işleyebilme imkanı sunuyor.
 
-<img
-  src='/assets/blog/b2b-karmasiktir.jpg'
-  alt='b2b karmaşıktır'
-  width='800'
-  height='533'
-  class='aligncenter size-full wp-image-9944'
-/>
-
 B2B iş modeli karmaşık iş uygulamalarına gereksinim duyduğundan dikkatli bir planlama gerektirir. Örneğin internet üzerinden DELL laptop satın alan bir kişi, asyadaki DELL üretimi yapan merkezlerin, farklı ülkelerdeki batarya, ana kart, ram veya işlemcilerin tedarik zincirinin kusursuz çalışması sayesinde bu işlemi gerçekleştirebiliyor. Sipariş verildiği andan itibaren, DELL üretim merkezleri birkaç ülkeden gelen malzemelerden oluşan tedarik sistemi ile ürünü hazırlayarak, amerikadaki dağıtım merkezine, oradan da amerikadaki tüketiciye ulaşıyor. Herşey birbirine sıkı biçimde bağlı üretim tedarik sistemi ile çalışıyor.
 
 B2B iş alanlarına bir örnek de Web Geliştirmedir. Her işletmenin bir web sitesine ihtiyacı vardır. Ancak çok az işletme sahibinin optimize edilmiş bir site oluşturmak için zamanı veya becerisi vardır. Web sitesi geliştirme şirketleri (ve daha genel olarak dijital pazarlamacılar), şirket web sitelerinin oluşturulmasını ve bakımını ve içerik oluşturma ve arama motoru optimizasyonu gibi diğer dijital reklamcılık hizmetlerini yerine getiren B2B servisleridir. Bu hizmetler, modern iş dünyasına hâkim hale gelen ve gittikçe genişleyen dijital ortamın vazgeçilmezleridir. Web geliştirme şirketlerinin birkaç on yıl öncesine kadar var olmamasına rağmen, sıfırdan herhangi bir sektör için temel ortaklar haline geldiler.

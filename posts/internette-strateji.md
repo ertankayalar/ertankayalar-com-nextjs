@@ -10,9 +10,10 @@ Pek çok küçük işletme sağdan soldan duyma bilgilerle internete giriş yapm
 
 ## Hedefler
 
-Öncelikli olarak hedeflerinizi belirlemeniz gerekiyor. Hedefleriniz olmadan nereye gideceğimizi bilmez ve internet okyanusunda akıntıya sürüklenirsiniz. Hedefleriniz, iş hedeflerinizin bir parçası olmalı, ulaşılabilir ve uygulanabilir olmalıdır.
+Öncelikli olarak hedeflerinizi belirlemeniz gerekiyor. Hedefleriniz olmadan nereye gideceğimizi bilmez ve internet okyanusunda akıntıya sürüklenirsiniz. **Hedefleriniz, iş hedeflerinizin bir parçası olmalı, ulaşılabilir ve uygulanabilir olmalıdır.**
 
-Cevabını bulmak istediğiniz sorular, interneti kullannarak nereye varmak istediğiniz türünden sorular olmalı.
+Cevabını bulmak istediğiniz sorular, interneti kullanarak nereye varmak istediğiniz türünden sorular olmalı.
+
 Birkaç örnek verecek olursak;
 
 - Yeni bir girişim için potansiyel müşteri adayları bulmak
@@ -47,23 +48,15 @@ Dijital pazarlama planını yaparken rakiplerinizin ne yaptıklarını, nasıl b
 
 ## Analiz
 
-<img
-src=/assets/blog/rakiplerin-analizi.jpg'
-alt='rakiplerin analizi'
-width='800'
-height='400'
-class='aligncenter size-full wp-image-7423'
-/>
-
 İnternet ortamı geleneksel iş dünyasından sunduğu avantajların başında
-ölçülebilirlik gelir. Bir örnekle açıklayacak olursak, fiziksel bir mağazada
-içerideki müşteri sayısını kolayca görebilir veya tahmin edebilirsiniz. Web
-sitesinde bunu ancak bir analiz programı ile yapabilirsiniz.{' '}
+ölçülebilirlik gelir. Bir örnekle açıklayacak olursak, fiziksel bir mağazadaiçerideki müşteri sayısını kolayca görebilir veya tahmin edebilirsiniz. Web sitesinde bunu ancak bir analiz programı ile yapabilirsiniz.
 
-Ancak, gerçek yaşamda müşterinin hangi ürünlerle ilgilendiğini bilemezsiniz. Ancak, web sitenizde çok daha ayrıntılı bilgilere sahip olabilirsiniz. Hangi ürün sayfalarını gezdiğini, ne kadar süre ile bu sayfalarda kaldığını ve siteden ayrılıp ayrılmadıklarını görebilirsiniz.
+Ancak, _gerçek yaşamda müşterinin hangi ürünlerle ilgilendiğini bilemezsiniz._ Ancak, web sitenizde çok daha ayrıntılı bilgilere sahip olabilirsiniz. Hangi ürün sayfalarını gezdiğini, ne kadar süre ile bu sayfalarda kaldığını ve siteden ayrılıp ayrılmadıklarını görebilirsiniz.
 
 Bu tür bilgiler size müşterinizin davranışları konusunda çok önemli bilgiler vererek, etkili karar almanızı sağlar. Web sitenizi şekillendirmenize ve internet planlarınızı daha iyi yapmanıza yardım eder.
 
 ## Sonuç
 
-İnternet, iyi bir strateji olmadan kolayca kaybolabileceğiniz kadar büyük ve karmaşıktır. Günlük kararlar alarak ve bunları sürekli değiştirerek, rastgele deneme-yanılma metotlarla ilerlemek sizi bir yere ulaştırmaz. Bugün, dijital dünyada varlık göstermeden ilerlemek her geçen gün zorlaşıyor. İnternet tüketicilerin satın alma kararlarını kalıcı olarak etkileyecek şekilde değişiyor. Stratejiniz olmadan kolayca kaybolursunuz. İyi bir strateji çok geç olmadan oluşturmaya hemen başlayın.
+İnternet, iyi bir strateji olmadan kolayca kaybolabileceğiniz kadar büyük ve karmaşıktır. Günlük kararlar alarak ve bunları sürekli değiştirerek, rastgele deneme-yanılma metotlarla ilerlemek sizi bir yere ulaştırmaz.
+
+Bugün, dijital dünyada varlık göstermeden ilerlemek her geçen gün zorlaşıyor. İnternet tüketicilerin satın alma kararlarını kalıcı olarak etkileyecek şekilde değişiyor. Stratejiniz olmadan kolayca kaybolursunuz. İyi bir strateji çok geç olmadan oluşturmaya hemen başlayın.

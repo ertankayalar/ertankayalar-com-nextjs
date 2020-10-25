@@ -1,7 +1,6 @@
 ---
 title: 'Yazılım Teknolojileri Seçimini Nasıl Yapmalı ?'
 date: '2018-05-28'
-coverImage: '/assets/dijital-pazarlama-nedir.png'
 ---
 
 Özel yazılım yaptırırken dikkat etmeniz gereken konulardan bir tanesi de kullanılacak teknolojilerdir. Seçeceğiniz teknoloji projenizin ihtiyaçlarına uygun olmalıdır. Hatalı seçimler size kötü performans, yüksek lisans maliyetleri gibi faturalar çıkarabilir. Yazılım teknolojilerini seçerken dikkat etmeniz gereken kuralları öğrenerek risklerinizi azaltabilirsiniz.
@@ -78,48 +77,12 @@ Yazılım mimarisi, güvenlik, veritabanı, kullanıcı yönetimi vs. Bu alanlar
 
 Tavsiye edebileceğim bazı popüler frameworkler:
 
-<ul>
-  <li>
-    <a
-      href='https://symfony.com'
-      rel='noreferrer noopener nofollow'
-      target='_blank'
-    >
-      Symfony PHP Framework
-    </a>{' '}
-    Endüstri standardı olmuş profesyonel ve aktif bir framework.
-  </li>
-  <li>
-    <a
-      href='https://laravel.com'
-      rel='noreferrer noopener nofollow'
-      target='_blank'
-    >
-      Laravel
-    </a>{' '}
-    En popüler PHP framework.{' '}
-  </li>
-  <li>
-    <a
-      href='https://yiiframework.com'
-      rel='noreferrer noopener nofollow'
-      target='_blank'
-    >
-      Yii PHP Framework
-    </a>
-  </li>
-  <li>
-    <a
-      href='https://wordpress.org'
-      rel='noreferrer noopener nofollow'
-      target='_blank'
-    >
-      WordPress
-    </a>{' '}
-    Popüler blog ve CMS uygulaması. Eğer projeniz içerik temelli ise WordPress
-    içine eklenti veya tema geliştirerek çözüm üretmek mümkündür.
-  </li>
-</ul>
+- <a href='https://symfony.com' rel='noreferrer noopener nofollow' target='_blank'>Symfony PHP Framework</a> Endüstri standardı olmuş profesyonel ve aktif bir framework.
+- <a href='https://laravel.com' rel='noreferrer noopener nofollow' target='_blank'>Laravel</a> Popüler PHP framework.
+- <a href='https://yiiframework.com' rel='noreferrer noopener nofollow' target='_blank'>Yii PHP Framework</a>
+- <a href='https://wordpress.org' rel='noreferrer noopener nofollow' target='_blank'>WordPress</a> Popüler blog ve CMS uygulaması. Eğer projeniz içerik temelli ise WordPress içine eklenti veya tema geliştirerek çözüm üretmek mümkündür.
+- <a href='https://www.djangoproject.com/'>Django</a> Python Web Framework
+- <a href='https://nextjs.org/'>Next.JS</a> Javascript React Framework
 
 Başka frameworkler yok mu ? Elbette var. Örneğin Ruby on Rails. Burada ülkemizde rahatlıkla yazılım geliştirici kullanabileceğiniz PHP tabanlı olanları seçtim.
 
@@ -137,8 +100,6 @@ Yukarıdaki listede WordPress’in olma bir nedeni de budur aslında. Benim terc
 
 Hangi teknolijiyi seçeceğiniz ihtiyaçlarınıza, yazılım geliştirinin kabiliyetine ve bütçenize bağlıdır. Benim için projenin türüne göre <em>WordPress</em> bazen uygun bir seçim olabiliyor. Bazen de <em>Symfony</em> gibi frameworklere iş düşüyor. Online girişim, web otomasyonu veya bir eticaret sitesi kurmak istiyor olabilirsiniz. Hangi adıma atacağınıza doğru karar vermek, başağrılarını ve riskleri azaltacaktır.
 
-<a href='https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/'>
-  Eğer özel yazılım yaptırmak istiyorsanız{' '}
-</a> bilmeniz gerekenlerleri bu yazımda okuyabilirsiniz.
+[Eğer özel yazılım yaptırmak istiyorsanız](https://ertankayalar.com.tr/blog/ozel-yazilim-yaptirmak/) bilmeniz gerekenlerleri bu yazımda okuyabilirsiniz.
 
 Projeniz için hangi hangi yazılım teknolojilerini kullanmayı düşünüyorsunuz ? Kafanızda sorular varsa yorumlara yazarak bana ulaştırabilirsiniz.

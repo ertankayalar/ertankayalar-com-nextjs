@@ -6,18 +6,20 @@ coverImage: '/assets/blog/yazilim-uzmani-olmak-post.png'
 
 Neredeyse 30 yıldır yazılım geliştirme ile uğraşıyorum. Yazılım geliştirmek ve yazılım uzmanı olmak isteyenler nereden başlamalı , neler öğrenmeli bu yazımda anlatmaya çalışacağım.
 
-- [Yazılım uzmanı olmak isteyenler için tavsiye ettiğim araçlar ve web siteleri {#web-siteleri}](#yazılım-uzmanı-olmak-isteyenler-için-tavsiye-ettiğim-araçlar-ve-web-siteleri-web-siteleri)
-- [Nereden başlamalı ? {#nereden-baslamali}](#nereden-başlamalı--nereden-baslamali)
-- [Sonuç](#sonuç)
+- [Yazılım Uzmanı Kimdir](#kimdir)
+- [Neden yazılım uzmanına ihtiyacımız var ?](#neden)
+- [Yazılım geliştirici olmak için hangi yetenek ve alışkanlıklara ihtiyacımız var ?](#yetenek)
+- [Yazılım uzmanı veya yazılım geliştirici olmak zor mudur ? Üniversite mezunu olmak gerekli midir ?](#universite)
+- [Yazılım geliştirme uzmanı olmak için neleri bilmek gerekir ?](#neleri-bilmeli)
+- [Yazılım uzmanı olmak isteyenler için tavsiye ettiğim araçlar ve web siteleri](#web-siteleri)
+- [Nereden başlamalı ?](#nereden-baslamali)
+- [Sonuç](#sonuc)
 
-<h2 id='kimdir'>Yazılım uzmanı kimdir ?</h2>
+## Yazılım uzmanı kimdir ? {#kimndir}
 
 Yazılım uzmanı kısaca yazılım geliştirmek, yazılımların test ve bakımlarını yapan meslek gurubuna verilen genel bir terimdir. Genelde yazılım uzmanı, yazılım geliştirici anlamında yaygın olarak kullanılmaktadır.
 
-[Oku: Yazılım uzmanı kimdir ?](https://ertankayalar.com.tr/sozluk/yazilim-uzmani/)
-**BURAYA ALABILIRIZ** VEYA **CODE** code.info.tr/sozluk/yazilim-uzmani
-
-<h2 id='neden'>Neden yazılım uzmanına ihtiyacımız var ?</h2>
+## Neden yazılım uzmanına ihtiyacımız var ? {#neden}
 
 İş dünyasında ve günlük hayatımızın hemen her alanında bilgisayarlar ve akıllı telefonlar girmiştir. İnternet, tv’ler, arabalar, endüstriyel cihazlar ve pek çok teknoloji ürünü, yazılım ile değer kazanmaktadır. Bugün uzay teknolojilerinin önemli bir kısmını da yazılımlar oluşturmaktadır.
 
@@ -27,10 +29,10 @@ Yazılım uzmanı kısaca yazılım geliştirmek, yazılımların test ve bakım
   <p lang='tr' dir='ltr'>
     Kağıt bile ihtal edilirken, yazılım sorusu lüks kaçabilir birilerine. Ancak
     yazılım yeni petroldür. İş ve gelişmenin merkezindedir. İthal samanla
-    olmayacağı gibi ihtal yazılıma da bel bağlamamak gerekir.{' '}
+    olmayacağı gibi ihtal yazılıma da bel bağlamamak gerekir.
     <a href='https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw'>
       #linux
-    </a>{' '}
+    </a>
     <a href='https://twitter.com/hashtag/pardus?src=hash&amp;ref_src=twsrc%5Etfw'>
       #pardus
     </a>
@@ -49,10 +51,7 @@ Yazılım uzmanı kısaca yazılım geliştirmek, yazılımların test ve bakım
 - **Hatasız iş üretme:** İnsanların hata yapabileceği hesaplama veya karmaşık işlemleri sorunsuz yerine getirmek. Uçak yazılımlarının ne kadar hayati olduğunu bir düşünün.
 - **Zaman tasarrufu:** İnternet veya mobil cihazlardaki gibi benzer işlevleri her noktadan gerçekleştirerek hayatı kolaylaştırmak. Her yerden sesli görüşme, email, bankacılık işlemleri her gün yaptığımız işlemler.
 
-<h2 id='yetenek'>
-  Yazılım geliştirici olmak için hangi yetenek ve alışkanlıklara ihtiyacımız var
-  ?
-</h2>
+## Yazılım geliştirici olmak için hangi yetenek ve alışkanlıklara ihtiyacımız var ? {#yetenek}
 
 Bana göre yazılım uzmanı olmak isteyen herkesin aşağıdaki temel yeteneklere sahip olması başarısını doğrudan etkileyecektır.
 
@@ -78,10 +77,7 @@ _Yazılım geliştirici olmak isteyen herkese tavsiyem, sağlık beslenme, düze
 
 Genç yaşlarda bu tür sıkıntılarınız olmayabilir. Ancak yaşınız ilerledikçe veriminizin ve yaşam kalitenizin düşmemesi için bedeninize özen göstermelisiniz.
 
-<h2 id='universite'>
-  Yazılım uzmanı veya yazılım geliştirici olmak zor mudur ? Üniversite mezunu
-  olmak gerekli midir ?
-</h2>
+## Yazılım uzmanı veya yazılım geliştirici olmak zor mudur ? Üniversite mezunu olmak gerekli midir ? {#universite}
 
 Yukarıdaki alışkanlıkları kazanarak düzenli çalışan herkes yazılım uzmanı olabilir. “Yazılım geliştirmek zordur” gibi söylemlerin sizi korkutmasına izin vermeyin.
 
@@ -89,23 +85,21 @@ Yazılım mühendisi veya üniversite mezunu olmak bu iş için gerekli değildi
 
 Yazılım uzmanı olmak için sabırlı ve çalışkan olmak, en önemlisi de yaptığınız işi sevmek gerekir.
 
-<h2 id='neleri-bilmeli'>
-  Yazılım geliştirme uzmanı olmak için neleri bilmek gerekir ?
-</h2>
+## Yazılım geliştirme uzmanı olmak için neleri bilmek gerekir ? {#neleri-bilmeli}
 
 Yazılım uzmanı denildiğinde akla gelen ilk konu programlama dilleridir. Ancak başarılı bir yazılım uzmanı bundan fazlasını bilmek zorundadır.
 
+![Stackoverflow Surver 2020](/assets/blog/stackoverflow-surver-2020-langs.png)
+StackOverflow sitesinin [2020 anketine ](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted) göre göre en çok öğrenilmek istenen programlama dillerinin başında Python geliyor.
+
 Popüler programlama dilleri:
 
-- <a href='https://www.python.org/' rel='noreferrer noopener nofollow' target='\_blank' >Python</a>
-- <a href='http://php.net/' rel='noreferrer noopener nofollow' target='_blank'>
-    PHP </a>
-- <a href='https://www.java.com/tr/' rel='noreferrer noopener nofollow'
-  target='\_blank' >Java</a>
-- <a href='https://www.perl.org/' rel='noreferrer noopener nofollow' target='\_blank'>Perl</a>
-- <a href='https://docs.microsoft.com/tr-tr/dotnet/csharp/' rel='noreferrer noopener nofollow' target='\_blank'>C#</a>
-- <a href='https://docs.microsoft.com/tr-tr/dotnet/visual-basic/' rel='noreferrer noopener nofollow' target='\_blank'>Visual Basic</a>
-- <a href='https://www.ruby-lang.org/tr/'  rel='noreferrer noopener nofollow'   target='\_blank'>Ruby</a>
+- [Python](https://www.python.org/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [Java](https://www.java.com/tr/)
+- [C#](https://docs.microsoft.com/tr-tr/dotnet/csharp/)
+- [PHP](http://php.net/)
+- [Ruby](https://www.ruby-lang.org/tr/)
 
 _Yazılım geliştirme metodları:_
 Yıllardır yazılım geliştiriciler hatasız ve zamanında proje teslimi için bir takım metodlar geliştirmişlerdir. Bu metodlar zamanla yerini bir yeni metodolojiye bırakmıştır.
@@ -142,29 +136,26 @@ UML, (Unified Modeling Language) nesneye yönelimli programlamada (OOP) sınıf 
 
 Yazılım geliştirme ile ilgili bu sayfaya sığmayacak kadar çok web sitesi bulunmaktadır. Bu nedenle sık ziyaret ettiğim veya faydalı yazılımların bulunduğu sitelerden seçtim.
 
-<ul>
-<li><a href='https://developer.mozilla.org/tr/' rel='noreferrer noopener nofollow' target='\_blank'> Mozilla Developer Network:</a> Mozilla vakfının javascript ve uygulama geliştirme kütüphanesi</li>
-<li><a href='https://reactjs.org/' rel='noreferrer noopener nofollow'>React JS:</a> Facebook yazılım ekibinin geliştirdiği frontend js kütüphanesi</li>
-<li><a href='https://vuejs.org' rel='noreferrer noopener nofollow'>Vue JS</a> Progressive JS Framework</li>
-<li><a href='https://angular.io'>Angular JS</a> Google ekibinin geliştirdiği JS Framework</li>
-<li><a href='https://codex.wordpress.org/' rel='noreferrer noopener nofollow'   target='\_blank'>WordPress Codex</a> WordPress programcılarının temel kaynağı</li>
-<li><a href='https://stackoverflow.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Stack Overflow</a> Dünya genelinde programcıların birbirlerine sorular yönelttikleri, yardımlaştığı popüler site</li>
-<li><a href='https://git-scm.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Git</a> Git ile sürüm yönetim servis sağlayıcı</li>
-<li><a href='https://www.djangoproject.com/'>Django</a> Python Web Framework</li>
-<li><a href='https://flask.palletsprojects.com/'>Flask</a> Python Web Framework</li>
-<li><a href='https://symfony.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Symfony</a> Endüstri standardı olmuş PHP framework.</li>
-<li><a href='https://laravel.com/' rel='noreferrer noopener nofollow' target='\_blank'>Laravel</a> Popüler PHP framework</li>
-<li><a href='https://www.yiiframework.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Yii PHP Framework</a></li>
-<li><a href='https://code.tutsplus.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Tutsplus</a> Kodlama üzerine yazılar</li>
-<li><a href='https://www.smashingmagazine.com/'  rel='noreferrer noopener nofollow' target='\_blank'> Smashing Magazine</a> Web Tasarım, grafik, kodlama yazıları</li>
-<li><a href='https://www.asp.net/' rel='noreferrer noopener nofollow'  target='\_blank'>ASP.NET</a> Microsoft ASP.NET programcıları için web sitesi</li>
-<li><a href='https://atom.io/' rel='noreferrer noopener nofollow' target='_blank'>Atom Editör</a> Ücretsiz kodlama editörü</li>
-<li><a href='https://code.visualstudio.com/' rel='noreferrer noopener nofollow'   target='\_blank'>Visual Studio Code</a> Microsoft'un ücretsiz editörü</li>
-<li><a href='https://www.freecodecamp.org/' rel='noreferrer noopener nofollow'   target='\_blank'>FreeCodeCamp</a> Ücretsiz Kodlama Eğitimi</li>
-<li><a href='https://www.linkedin.com/learning/' rel='noreferrer noopener nofollow' target='\_blank'>Linkedin Learning</a>Ücretli Video eğitim sitesi</li>
-<li><a href='https://www.udemy.com/' rel='noreferrer noopener nofollow'  target='\_blank'>Udemy</a> Ücretli Video eğitim sitesi</li>
-
-</ul>
+- [Mozilla Developer Network](https://developer.mozilla.org/tr/) Mozilla vakfının javascript ve uygulama geliştirme kütüphanesi
+- [React JS]('https://reactjs.org/') Facebook yazılım ekibinin geliştirdiği frontend js kütüphanesi
+- [Vue JS]('https://vuejs.org') Progressive JS Framework
+- [Angular JS]('https://angular.io') Google ekibinin geliştirdiği JS Framework
+- [WordPress Codex]('https://codex.wordpress.org/') WordPress programcılarının temel kaynağı
+- [Stack Overflow]('https://stackoverflow.com/') Dünya genelinde programcıların birbirlerine sorular yönelttikleri, yardımlaştığı popüler site
+- [Git]('https://git-scm.com/') Git ile sürüm yönetim servis sağlayıcı
+- [Django]('https://www.djangoproject.com/') Python Web Framework
+- [Flask]('https://flask.palletsprojects.com/') Python Web Framework
+- [Symfony]('https://symfony.com/') Endüstri standardı olmuş PHP framework.
+- [Laravel]('https://laravel.com/') Popüler PHP framework
+- [Yii PHP Framework]('https://www.yiiframework.com/')
+- [Tutsplus]('https://code.tutsplus.com/') Kodlama üzerine yazılar
+- [Smashing Magazine]('https://www.smashingmagazine.com/') Web Tasarım, grafik, kodlama yazıları
+- [ASP.NET]('https://www.asp.net/') Microsoft ASP.NET programcıları için web sitesi
+- [Atom Editör]('https://atom.io/') Ücretsiz kodlama editörü
+- [Visual Studio Code]('https://code.visualstudio.com/') Microsoft'un ücretsiz popüler editörü
+- [FreeCodeCamp]('https://www.freecodecamp.org/') Ücretsiz Kodlama Eğitimi
+- [Udemy]('https://www.udemy.com/') Ücretli Video eğitim sitesi
+- [Linkedin Learning]('https://www.linkedin.com/learning/') Ücretli Video eğitim sitesi
 
 ## Nereden başlamalı ? {#nereden-baslamali}
 
@@ -175,7 +166,7 @@ Yazılım geliştirme ile ilgili bu sayfaya sığmayacak kadar çok web sitesi b
 
 Düzenli ve günlük çalışma alışkanlığı edinerek ilgilendiğiniz bir programla dilini seçin. Öğrendiklerinizi pekiştirmek için bir uygulama geliştirmeniz faydalı olacaktır.
 
-## Sonuç
+## Sonuç {#sonuc}
 
 Yıllar önce ilk program kodunu gördüğümde kendi kendime “Ertan sen bu işi öğrenemeyeceksin” dedim. Aslında sadece 10 satırlık basit bir Basic koduna bakıyordum. Bugün bilmediğim bir programlama dilindeki koda baktığımda bile ne yaptığını anlayabiliyorum.
 

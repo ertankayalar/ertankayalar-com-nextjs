@@ -1,7 +1,6 @@
 ---
-title: 'Özel Yazılım Şirketleri Araştırma Rehberi'
+title: 'Özel Yazılım Şirketleri ile çalışma rehberi'
 date: '2018-05-28'
-coverImage: '/assets/dijital-pazarlama-nedir.png'
 ---
 
 Her türlü sektörde _özel yazılım şirketleri_ arasından doğru olanı seçmek son derece kritik ve önemli bir karardır. Eğer **doğru özel yazılım şirketini seçemezseniz**, çıkmaz sokağa girdiğiniz çok geç farkedersiniz.
@@ -12,32 +11,30 @@ Yazılım geliştirme işinde 28 yılı geride bıraktım. Özel yazılım geli�
 
 Özel yazılım şirketleri araştırmanızda dikkat etmeniz gereken önemli noktaları listeledim. Eğer bahsedeceğim noktalara dikkat ederseniz risklerinizi büyük oranda azaltmış olursunuz.
 
-- [1) Önce DNA'sına sonra tecrübesine bakın {#tecrube}](#1-önce-dnasına-sonra-tecrübesine-bakın-tecrube)
-- [2) Uzmanlık alanlarını araştırın {#uzmanlik}](#2-uzmanlık-alanlarını-araştırın-uzmanlik)
-  - [Projenin boyutu eğer izin veriyorsa bir yazılım geliştirici ile çalışmanızı tavsiye ederim.](#projenin-boyutu-eğer-izin-veriyorsa-bir-yazılım-geliştirici-ile-çalışmanızı-tavsiye-ederim)
-  - [Farklı sektörlerden gelen çözüm sağlayabilme tecrübesi](#farklı-sektörlerden-gelen-çözüm-sağlayabilme-tecrübesi)
-- [3) Pazarlamaya odaklanın {#pazarlama}](#3-pazarlamaya-odaklanın-pazarlama)
-- [4) Programlama hakkında önemsiz sorular sormayın {#onemsiz}](#4-programlama-hakkında-önemsiz-sorular-sormayın-onemsiz)
-- [5) Kullandığı yazılım teknolojilerini inceleyin {#yazilim-teknolojileri}](#5-kullandığı-yazılım-teknolojilerini-inceleyin-yazilim-teknolojileri)
-- [6) Projenizin nasıl host edileceğini öğrenin {#web-hosting}](#6-projenizin-nasıl-host-edileceğini-öğrenin-web-hosting)
-- [7) Web sitelerini inceleyin {#web-siteleri}](#7-web-sitelerini-inceleyin-web-siteleri)
-- [8) Referansları inceleyin {#referanslar}](#8-referansları-inceleyin-referanslar)
-- [9) Eski müşterileri ile görüşün {#musteriler}](#9-eski-müşterileri-ile-görüşün-musteriler)
-- [10) Nasıl çalıştığını öğrenin {#nasil-calisir}](#10-nasıl-çalıştığını-öğrenin-nasil-calisir)
-- [11) Yazılım uzmanı ile projenizin detayları konusunda hemfikir olmalısınız {#projenizi-iyi-anlamali}](#11-yazılım-uzmanı-ile-projenizin-detayları-konusunda-hemfikir-olmalısınız-projenizi-iyi-anlamali)
-- [12) Sağlam ve Detaylı bir Sözleşmeniz olmalı {#sozlesme}](#12-sağlam-ve-detaylı-bir-sözleşmeniz-olmalı-sozlesme)
-- [13) Garanti ve Destek {#garanti}](#13-garanti-ve-destek-garanti)
-- [14) Web sitenize gerçekten sahip olduğunuzdan emin olun {#sahip-olun}](#14-web-sitenize-gerçekten-sahip-olduğunuzdan-emin-olun-sahip-olun)
-- [15) Önce küçük bir projede deneyin {#deneyin}](#15-önce-küçük-bir-projede-deneyin-deneyin)
-- [16) Çıkış stratejiniz olsun {#cikis-stratejisi}](#16-çıkış-stratejiniz-olsun-cikis-stratejisi)
-- [Uzun dönemli düşünün {#uzun-donemli}](#uzun-dönemli-düşünün-uzun-donemli)
-- [Şimdi ne yapmalı ?](#şimdi-ne-yapmalı-)
+1. [Önce DNA'sına sonra tecrübesine bakın](#tecrube)
+1. [Uzmanlık alanlarını araştırın](#uzmanlik)
+1. [Projenin boyutu eğer izin veriyorsa bir yazılım geliştirici ile çalışmanızı tavsiye ederim.](#bir-yazilim-gelistirici)
+1. [Farklı sektörlerden gelen çözüm sağlayabilme tecrübesi](#cözum-tecrubesi)
+1. [Pazarlamaya odaklanın ](#pazarlama)
+1. [Programlama hakkında önemsiz sorular sormayın](#onemsiz)
+1. [Kullandığı yazılım teknolojilerini inceleyin](#yazilim-teknolojileri)
+1. [Projenizin nasıl host edileceğini öğrenin](#web-hosting)
+1. [Web sitelerini inceleyin](#web-siteleri)
+1. [Referansları inceleyin](#referanslar)
+1. [Eski müşterileri ile görüşün](#musteriler)
+1. [Nasıl çalıştığını öğrenin](#nasil-calisir)
+1. [Yazılım uzmanı ile projenizin detayları konusunda hemfikir olmalısınız](#projenizi-iyi-anlamali)
+1. [Sağlam ve Detaylı bir Sözleşmeniz olmalı](#sozlesme)
+1. [Garanti ve Destek](#garanti)
+1. [Web sitenize gerçekten sahip olduğunuzdan emin olun](#sahip-olun)
+1. [Önce küçük bir projede deneyin](#deneyin)
+1. [Çıkış stratejiniz olsun](#cikis-stratejisi)
+1. [Uzun dönemli düşünün](#uzun-donemli)
+1. [Şimdi ne yapmalı ?](#şimdi-ne-yapmalı-)
 
-[Özel yazılım çözümleri arayanlar için 5 önemli adımı](https://ertankayalar.com/ozel-yazilim-cozumleri/) öğrendiyseniz, bir yazılım uzmanı seçmek için sorularınız oluşacaktır. Bütün yazılım firmalarının önceki referanslarının etkileyici olması, sizin projeniz ve işiniz için doğru oldukları anlamına gelmez. Bu süreçte yazılım firmalarını şu noktalarda araştırmanız gerekir.
+[Özel yazılım çözümleri arayanlar için 5 önemli adımı](https://ertankayalar.com.tr/blog/ozel-yazilim-cozumleri/) öğrendiyseniz, bir yazılım uzmanı seçmek için sorularınız oluşacaktır. Bütün yazılım firmalarının önceki referanslarının etkileyici olması, sizin projeniz ve işiniz için doğru oldukları anlamına gelmez. Bu süreçte yazılım firmalarını şu noktalarda araştırmanız gerekir.
 
-![tablet ve google](https://ertankayalar.com/wp-content/uploads/2016/11/google.jpg)
-
-## 1) Önce DNA'sına sonra tecrübesine bakın {#tecrube}
+## Önce DNA'sına sonra tecrübesine bakın {#tecrube}
 
 İyi bir yazılım uzmanı olmanın birinci kuralı, sürekli öğrenme alışkanlığıdır. Öğrenme, teknoloji sevgisi ve bir şeyler yaratma tutkusu, iyi bir yazılım geliştiricinin temel özelliğidir.
 
@@ -49,7 +46,7 @@ Dahası deneyim, projeyi almadan önce _doğru soruları sormasını_ da sağlı
 
 Müşterinin ne dediğini ve ne yapmak istediğini anlamak, çözümün müşterinin ihtiyaçlarını ne oranda karşılayacağını ve iş hedeflerine ne kadar ulaştıracağını öngörmek tecrübeyle gelen bir yetenek.
 
-## 2) Uzmanlık alanlarını araştırın {#uzmanlik}
+## Uzmanlık alanlarını araştırın {#uzmanlik}
 
 Özel yazılımın başarılı olması için aradığınız yazılım uzmanında aşağıdaki yeteneklerin bulunması kritiktir:
 
@@ -66,11 +63,11 @@ Kapsamlı hizmetler veren bir yazılım firması, yazılımın yaşam döngüsü
 - Test ve Kalite
 - Yazılımın kullanıma sunulması, (sürekli bakım ihtiyaçları dahil)
 
-### Projenin boyutu eğer izin veriyorsa bir yazılım geliştirici ile çalışmanızı tavsiye ederim.
+## Projenin boyutu eğer izin veriyorsa bir yazılım geliştirici ile çalışmanızı tavsiye ederim. {#bir-yazilim-gelistirici}
 
 Tam aksi daha akılcı geliyor değil mi ? Ancak birden fazla yazılım geltiştiricinin çalışabilmesi için iyi bir iletişim trafiği gereklidir. Eğer proje büyükse bu kaçınılmaz olabilir. Ancak projeniz bir yazılım geliştiricinin altından kalkabileceği boyuttaysa zaman ve enerji tasarrufu sağlar. Bir kişi ile yazılımın geliştirme projenizin takibini kolaylaştırır.
 
-### Farklı sektörlerden gelen çözüm sağlayabilme tecrübesi
+## Farklı sektörlerden gelen çözüm sağlayabilme tecrübesi {#cözum-tecrubesi}
 
 Bir yazılımın geliştricinin referanslarını incelerken, doğal olarak projelerden çok sizin firmanıza benzer firmalarla yaptığı çalışmalara dikkat edersiniz. Doğrudur, telekom, ulaşım ve lojistik, sigorta, hukuk, finans, üretim, ihracat vs vs. Her bir alan yazılım geliştirme ekibinin ihtiyaç duyduğu bilgi düzeyini temsil eder.
 
@@ -121,7 +118,7 @@ Eğer doğru teknolojiler seçilirse:
 - Yazılım ekibi farklı noktalardan rahatlıkla yazılım geliştirebilir
 - Teslim sonrası bakım masraflarını azaltabilirsiniz.
 
-[Ayrıntılı bilgi için modern web geliştirme teknolojileri hakkındaki yazımı okuyabilirsiniz](https://ertankayalar.com.tr/yazilim-teknolojileri/)
+[Ayrıntılı bilgi için modern web geliştirme teknolojileri hakkındaki yazımı okuyabilirsiniz](https://ertankayalar.com.tr/blog/yazilim-teknolojileri/)
 
 ## 6) Projenizin nasıl host edileceğini öğrenin {#web-hosting}
 
@@ -133,7 +130,7 @@ Web hosting fiyata dahil midir ? Yazılım firması bu konuda size nasıl yardı
 **Hangi web hosting platformu kullanılacak ?**
 Web tabanlı yazılım projeniz için kritik noktalardan bir tanesi kullanacağınız platformdur. Web hosting alanında bugün en yaygın platform Linux’tur. Yukarıdaki "Yazılım her platformda çalışabilmelidir" sözümü bir kez daha tekrar etmiş olalım.
 
-Linux sunucular, Facebook veya Google gibi büyük ve başarılı şirketlerin kullandığı sunuculardır. [Neden Linux kullanmalı](https://ertankayalar.com.tr/neden-linux/) yazımı okuabilirsiniz.
+Linux sunucular, Facebook veya Google gibi büyük ve başarılı şirketlerin kullandığı sunuculardır. [Neden Linux kullanmalı](https://ertankayalar.com.tr/blog/neden-linux/) yazımı okuabilirsiniz.
 
 Yüksek performans, güvenlik ve daha uygun fiyatlarla sunucu kiralama, sanal sunucu gibi çözümleri bulabilirsiniz.
 

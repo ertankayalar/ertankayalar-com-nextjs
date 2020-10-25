@@ -10,15 +10,15 @@ export default function contact() {
       </Head>
 
       <div className='flex flex-col sm:flex-row justify-center space-y-12 space-x-0 sm:space-x-12 sm:space-y-0 items-start'>
-        <div className='w-full md:w-1/3'>
+        <div className='w-full md:w-1/3 pt-5'>
           <img
             src='/assets/ek-medium-19v1-225x300.jpg'
             alt='ertan kayalar'
             className='mx-auto shadow-lg'
           />
         </div>
-        <article className='w-full md:w-2/3 h-auto prose-sm md:prose-lg py-10 text-center md:text-left'>
-          <h1>İletişim</h1>
+        <article className='w-full md:w-2/3 h-auto prose-sm md:prose-lg py-10 text-center sm:text-left'>
+          <h1>Bana Ulaşın</h1>
 
           <p className='text-md md:text-lg font-normal'>
             Benimle ilginiz iş, yazdığım içerikler veya konuşmak istediğiniz

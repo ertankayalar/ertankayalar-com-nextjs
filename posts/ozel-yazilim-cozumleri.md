@@ -7,12 +7,12 @@ date: '2018-05-28'
 
 Özel yazılım çözümü, hazır yazılım çözümlerinin işe yaramadığı durumlarda hayat kurtarır. Yazılım geliştirme işi karmaşıktır. Gerekli bilgiden yoksun olan şirketler için büyük riskler oluşturur. Özel yazılım çözümleri arayanlar için takip etmesi gereken 6 önemli adımı listeledim.
 
-- [Adım 1: Yazılım geliştirmedeki riskleri öğrenin {#yazilim-gelistirme-riskleri}](#adım-1-yazılım-geliştirmedeki-riskleri-öğrenin-yazilim-gelistirme-riskleri)
-- [Adım 2: Projenizin amacını belirleyin {#hedefler}](#adım-2-projenizin-amacını-belirleyin-hedefler)
-- [Bütçenizi ve süreyi belirleyin {#butce-ve-sure}](#bütçenizi-ve-süreyi-belirleyin-butce-ve-sure)
-- [Adım 4: Uzun dönemli düşünün ve hareket edin {#uzun-donemli}](#adım-4-uzun-dönemli-düşünün-ve-hareket-edin-uzun-donemli)
-- [Adım 5: Özel Yazılım Şirketleri Araştırması {#ozel-yazilim-sirketleri}](#adım-5-özel-yazılım-şirketleri-araştırması-ozel-yazilim-sirketleri)
-- [Adım 6: Özel yazılım yaptırmak için dikkat etmeniz gerekenleri öğrenin {#ozel-yazilim-yaptirmak}](#adım-6-özel-yazılım-yaptırmak-için-dikkat-etmeniz-gerekenleri-öğrenin-ozel-yazilim-yaptirmak)
+- [Adım 1: Yazılım geliştirmedeki riskleri öğrenin](#yazilim-gelistirme-riskleri)
+- [Adım 2: Projenizin amacını belirleyin](#hedefler)
+- [Bütçenizi ve süreyi belirleyin](#butce-ve-sure)
+- [Adım 4: Uzun dönemli düşünün ve hareket edin](#uzun-donemli)
+- [Adım 5: Özel Yazılım Şirketleri Araştırması](#ozel-yazilim-sirketleri)
+- [Adım 6: Özel yazılım yaptırmak için dikkat etmeniz gerekenleri öğrenin](#ozel-yazilim-yaptirmak)
 - [Sonuç](#sonuç)
 
 ## Adım 1: Yazılım geliştirmedeki riskleri öğrenin {#yazilim-gelistirme-riskleri}
@@ -74,7 +74,7 @@ Eğer size yapacağınız yatırımınızın iyi bir geri dönüşümü olacağ�
 
 Eğer uzun bir süre sonuç elde etmeden bir yerlere para harcamaya devam ediyorsanız, dikkatli olun, birinci adımdaki hedeflerin gözünüzü kör etmesine izin vermeyin.
 
-**Hedeflerinizi ve bütçeniiz belirledikten sonra, hangi uzmanı veya özel yazılım firmasının buna uygun olacağını daha kolay seçebilirsiniz.**
+**Hedeflerinizi ve bütçenizi belirledikten sonra, hangi uzmanı veya özel yazılım firmasının buna uygun olacağını daha kolay seçebilirsiniz.**
 
 ## Adım 4: Uzun dönemli düşünün ve hareket edin {#uzun-donemli}
 
@@ -82,15 +82,15 @@ Gelecekteki ihtiyaçlarınızı kestirmek güçtür. Acil olarak çözmek istedi
 
 ## Adım 5: Özel Yazılım Şirketleri Araştırması {#ozel-yazilim-sirketleri}
 
-Geldik özel yazılımı kimin yapacağına. Eğer işletmenizde yeterli düzeyde personel varsa [hangi özel yazılım geliştirme teknolojilerini nasıl seçmeli ?](https://ertankayalar.com.tr/yazilim-teknolojileri/) sorusunun cevabına bakabilirsiniz.
+Geldik özel yazılımı kimin yapacağına. Eğer işletmenizde yeterli düzeyde personel varsa [hangi özel yazılım geliştirme teknolojilerini nasıl seçmeli ?](https://ertankayalar.com.tr/blog/yazilim-teknolojileri/) sorusunun cevabına bakabilirsiniz.
 
 Eğer dışarıda yaptıracaksanız özel yazılım şirketini seçmek işin en kritik noktasını oluşturacaktır. Profesyonel bir yazılım geliştirici ile uzun dönem çalışabilirsiniz. Bu nedenle **bir yazılım uzmanı seçerken, fiyata odaklanmak yerine bir iş ortağı aradığınızın bilincinde olun.**
 
-[Özel yazılım şirketlerini araştırmak ve sizin için en iyisini] seçmek için detayları buradan öğrenebilirsiniz.
+Özel yazılım şirketlerini araştırmak ve sizin için hangisinin en iyisi olduğunu belirleyebilmek için [bu yazımı](https://ertankayalar.com.tr/blog/ozel-yazilim-sirketleri/) okuyabilirsiniz.
 
 ## Adım 6: Özel yazılım yaptırmak için dikkat etmeniz gerekenleri öğrenin {#ozel-yazilim-yaptirmak}
 
-Özel yazılım yaptırırken kolayca çıkmaz sokakta kendinizi bulabilirsiniz. Bir yazılım geliştirici ile anlaşmış olmanız herşeyin tamam olduğu anlamnına gelmez. İstediğiniz yazılım çözümü sizi işinizde sınıf atlatacaksa bizzat kendinizin de bu işin içinde olmanız gerekir. Doğru kararları almak, [işin gidişatını yönetebilmek için neler yapmanız gerektiğini](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/) buradan öğrenebilirsiniz.
+Özel yazılım yaptırırken kolayca çıkmaz sokakta kendinizi bulabilirsiniz. Bir yazılım geliştirici ile anlaşmış olmanız herşeyin tamam olduğu anlamnına gelmez. İstediğiniz yazılım çözümü sizi işinizde sınıf atlatacaksa bizzat kendinizin de bu işin içinde olmanız gerekir. Doğru kararları almak, [işin gidişatını yönetebilmek için neler yapmanız gerektiğini](https://ertankayalar.com.tr/blog/ozel-yazilim-yaptirmak/) buradan öğrenebilirsiniz.
 
 ## Sonuç
 

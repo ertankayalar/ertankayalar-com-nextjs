@@ -1,14 +1,12 @@
 ---
 title: 'Symfony PHP Framework İncelemesi'
 date: '2018-05-17'
-coverImage: '/assets/blog/symfony-inceleme.png'
+coverImage: '/assets/blog/symfony-inceleme.jpg'
 ---
-
-# Symfony PHP Framework Bölüm 1
 
 Symfony, uzun yıllardır aktif bir yazılım geliştirici topluluğuna sahip başarılı bir PHP framework. Liderliğini Fabien Potencier'in yaptığı Symfony ilk yıllardan itibaren programcıların ortak problemlerini çözmeyi hedefledi. Bugün artık bir endüstri standardı haline gelerek büyük projelerde tercih edilir oldu.
 
-Symfony <a href="https://connect.sensiolabs.com/profile/erkasoft" rel="noreferrer noopener nofollow" target="_blank">benim</a> yıllardır sevdiğim bir framework. Tam zamanlı kullanmasam da, zaman zaman başka frameworkler üzerinde çalışsam da benim için Symfony daima listenin başında geliyor.
+Symfony [benim](https://connect.sensiolabs.com/profile/erkasoft) yıllardır sevdiğim bir framework. Tam zamanlı kullanmasam da, zaman zaman başka frameworkler üzerinde çalışsam da benim için Symfony daima listenin başında geliyor.
 
 ## Neden Framework ?
 
@@ -16,7 +14,7 @@ Programcılar arasında sürüp giden tartışmalardan bir tanesi de framework k
 
 **İşinizi daha iyi yapmanızı sağlayacak her konuyu ciddiye alın.**
 
-Bana göre framework, programcıya bir kalıp sunarak işini kolaylaştırıyor. Programcıların bir araya gelerek ortak akıl yürütmesi ile etkili bir yapı ortaya çıkıyor. Özellikle ekip olarak çalışıyorsanız framework kullanımı, yazılım geliştirme takımınızın izleyeceği programlama prensipleri ile projenizin sağlıklı ve sorunsuz yürümesini sağlayacaktır. Özetle frameworkler [özel yazılım geliştirmek](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/) için ideal araçlardır.
+Bana göre framework, programcıya bir kalıp sunarak işini kolaylaştırıyor. Programcıların bir araya gelerek ortak akıl yürütmesi ile etkili bir yapı ortaya çıkıyor. Özellikle ekip olarak çalışıyorsanız framework kullanımı, yazılım geliştirme takımınızın izleyeceği programlama prensipleri ile projenizin sağlıklı ve sorunsuz yürümesini sağlayacaktır. Özetle frameworkler [özel yazılım geliştirmek](https://ertankayalar.com.tr/blog/ozel-yazilim-yaptirmak/) için ideal araçlardır.
 
 ## Symfony öğrenmesi çok zor bir framework mü ?
 
@@ -28,11 +26,11 @@ Symfony ilk sürümünden itibaren kapsamlı bir kütüphane olduğu için bazı
 
 Zend framework gibi Symfony de karmaşık iş uygulamaları için tasarlanmış bir dizi parçadan (bundle) oluşmaktadır.
 
-Nesne yönelimli programlama (OOP) yapısına önem verir. <a href="https://symfony.com/doc/current/components/dependency_injection.html)" rel="noreferrer noopener nofollow" target="_blank">Dependency injection</a> gibi yapısal sorunlarla uğraşır.
+Nesne yönelimli programlama (OOP) yapısına önem verir. [Dependency injection](https://symfony.com/doc/current/components/dependency_injection.html) gibi yapısal sorunlarla uğraşır.
 
 ## Symfony 4
 
-![symfony logo](/assets/blogsymfony_black_03.svg)
+![symfony logo](/assets/blog/symfony_black_03.svg)
 
 Symfony başarılı 2 ve 3 sürümlerinden sonra 4.0 ile karşımızda.
 
@@ -41,6 +39,8 @@ Yeni gelen özelliklerinden en çok sevdiğim ilk üçü şöyle:
 - Yeni klasör yapısı: kod yönetimini daha kolaylaştırıyor
 - Hafif bir sürüm: daha az sayıda dosyalar olarak geliyor
 - Flex: istediğiniz paketleri kolayca projenize ekliyorsunuz
+
+Symfony iyi bir [yazılım mimarisine](https://ertankayalar.co.tr/blog/yazilim-mimarisi-tasarlama/) sahip.
 
 Tipik bir Symfony uygulamasında klasörler aşağıdaki gibi oluşuyor.
 
@@ -111,17 +111,11 @@ Yukarıdaki mesajdan da görülüğü gibi aşağıdaki adresten yeni uygulaman�
 
 Artık Symfony installer ile kuruluş önerilmiyor. Onun yerine composer ile uygulamanızın ihtiyaç duyduğu parçaları (bundle) rahatça kurmak mümkün.
 
-<a
-href='https://symfony.com/doc/current/setup/flex.html'
-rel='noreferrer noopener nofollow'
-target='\_blank'
-
-> Flex
-> </a> composer üzerinde bundle'ların kurulması ve kaldırıması için çalışıyor.
+[Flex](https://symfony.com/doc/current/setup/flex.html) composer üzerinde bundle'ların kurulması ve kaldırıması için çalışıyor.
 
 Flex reçeteleri ile boş bir Symfony 4 uygulaması kurup ihtiyacınız olan tüm kütüphaneleri projenize ekleyebilirsiniz.
 
-Flex reçetelerini <a href="https://symfony.sh/" rel="noreferrer noopener nofollow" target="_blank">burada</a>burada bulabilirsiniz.
+Flex reçetelerini [burada](https://symfony.sh/) bulabilirsiniz.
 
 ## Symfony sistem gereksinimleri
 
@@ -223,6 +217,6 @@ Bu klasör Twig bundle kurulduğunda oluşturuluyor. Ana klasöre taşınmasın�
 ## Sonuç
 
 Symfony, aktif katılımcı topluluğu ve detaylı dökümanları ile projeleriniz için mutlaka dikkate almanız gereken bir framework.
-Kişisel olarak görüşüm, projeleriniz için iyi bir tercih olacaktır. Her [yazılım uzmanı](https://ertankayalar.com.tr/yazilim-uzmani-rehberi/) için mutlaka incelenmesi gereken bir framework.
+Kişisel olarak görüşüm, projeleriniz için iyi bir tercih olacaktır. Her [yazılım uzmanı](https://ertankayalar.com.tr/blog/yazilim-uzmani-olmak/) için mutlaka incelenmesi gereken bir framework.
 
 Symfony bir yazıda ele alınmayacak kadar büyük bir framework. Symfony incelemesine sonraki yazılarımda devam edeceğim.

@@ -21,13 +21,13 @@ export default function Post({ postData }) {
           />
         )}
 
-        <h1 className='text-3xl text-gray-600'>{postData.title}</h1>
-        <div class='text-gray-600 font-normal text-sm'>
+        <h1 className='text-3xl text-gray-800 mt-10 mb-5'>{postData.title}</h1>
+        <div class='text-gray-600 font-normal text-xs'>
           <DateFormater dateString={postData.date} />
         </div>
 
         <div
-          className='post-content prose-lg  pt-5 pb-10 text-gray-700 overflow-auto'
+          className='prose prose-sm w-full md:prose md:max-w-full lg:prose-lg lg:max-w-full pt-5 pb-10 text-gray-700 overflow-auto post-content '
           dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
         />
 

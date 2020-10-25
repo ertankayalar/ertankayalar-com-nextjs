@@ -4,7 +4,7 @@ date: '2018-04-30'
 coverImage: '/assets/blog/daha-cok-satis-yapmak-icin-daha-cok-bilgi-verin.jpg'
 ---
 
-Şirket sahipleri ve pazarlama ekipleri ile yaptığım sohbetlerde pek çok kişi, &"web sitesine neden daha çok bilgi konmalı ?" sorusuna cevap doğru dürüst veremiyor. Hatta ne kadar az bilgi koyarsa o kadar çok satış yapacağını düşünenler var. Müşterinin daha fazla bilgi için kendisini telefonla arayacağını düşünüyor. Malesef daha çok satış yapmak için bu düşünce eskide kaldı.
+Şirket sahipleri ve pazarlama ekipleri ile yaptığım sohbetlerde pek çok kişi, "web sitesine neden daha çok bilgi konmalı ?" sorusuna cevap doğru dürüst veremiyor. Hatta ne kadar az bilgi koyarsa o kadar çok satış yapacağını düşünenler var. Müşterinin daha fazla bilgi için kendisini telefonla arayacağını düşünüyor. Malesef daha çok satış yapmak için bu düşünce eskide kaldı.
 
 **Artık tüketicinin elinde internet gücü varken onu oyalamanız pek mümkün görünmüyor.**
 
@@ -91,12 +91,12 @@ _Ürününüz müşterinizin bir ihtiyacını gideriyor veya bir problemini çö
 Nasıl çözdüğünüzü anlatın. Onlara gösterin. İşte farklı alanlar için birkaç örnek:
 
 -Bir makina mı imal ediyorsunuz, nasıl çalıştığını gösterin. Bir video iş
-görebilir. [Singer dikiş konusunda ne kadar çok bilgi vermiş.](https://www.youtube.com/user/SingerTurkiye rel="noreferrer noopener nofollow" target="\_blank")
+görebilir. [Singer dikiş konusunda ne kadar çok bilgi vermiş.](https://www.youtube.com/user/SingerTurkiye)
 
 - Bir yazılım mı geliştiriyorsunuz onlara işlerini nasıl kolaylaştıracağını
   gösterin.
 - Ara malı üretiyorsanız satın alma rehberi veya teknik doküman oluşturun.
-  -Ürünün çevresindeki sorunları veya ihtiyaçlarda yardım edin.[Bearbrand sakal ve saç konusunda yardım ediyor.](https://www.youtube.com/user/TheBeardbrand rel="noreferrer noopener nofollow" target="\_blank")
+  -Ürünün çevresindeki sorunları veya ihtiyaçlarda yardım edin.[Bearbrand sakal ve saç konusunda yardım ediyor.](https://www.youtube.com/user/TheBeardbrand)
 
 Müşteri odaklı düşünerek hareket etmeli, tüm temas noktalarının (elbette web sitenizi) mükemmel olması için çalışmalısınız.
 
