@@ -44,7 +44,6 @@ export default function about() {
                 </Link>{' '}
                 hakkında çevrim içi kitap yazdım.
               </p>
-              <h2>Biraz daha detay</h2>
               <p></p>
             </div>
           </article>
