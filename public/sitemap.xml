@@ -1,5 +1,4 @@
-
-      <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
       <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
           
                       <url>
@@ -24,6 +23,54 @@
                   
 
             
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/b2b-nedir.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/daha-cok-satis-yapmak.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/internette-strateji.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/neden-linux.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/ozel-yazilim-cozumleri.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/ozel-yazilim-sirketleri.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/ozel-yazilim-yaptirmak.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/php-template-sistemi.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/symfony-framework.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/yazilim-mimarisi-tasarlama.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/yazilim-teknolojileri.md</loc>
+                          </url>
+                      
+                          <url>
+                              <loc>https://ertankayalar.com.tr/blog/yazilim-uzmani-olmak.md</loc>
+                          </url>
+                      
 
       </urlset>
   
