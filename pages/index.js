@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Layout, { siteTitle } from '../components/layout'
+import testfun from '../lib/testfs'
 
 export default function Home() {
   return (
@@ -69,7 +70,7 @@ export default function Home() {
               kitabı
             </p>
           </div>
-          <Link href='htts://pazarlama.info.tr'>
+          <Link href='https://pazarlama.info.tr'>
             <a className='btn btn-sm lg:btn-lg' target='_blank'>
               pazarlama.info.tr
               <svg
