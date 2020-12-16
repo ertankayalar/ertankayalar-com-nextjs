@@ -1,7 +1,7 @@
 ---
-title: 'Yazılım Uzmanı Olmak İsteyenlere Tavsiyeler'
-date: '2018-11-05'
-coverImage: '/assets/blog/yazilim-uzmani-olmak-post.png'
+title: Yazılım Uzmanı Olmak İsteyenlere Tavsiyeler
+date: 2018-11-05
+coverImage: /assets/blog/yazilim-uzmani-olmak-post.png
 ---
 
 Neredeyse 30 yıldır yazılım geliştirme ile uğraşıyorum. Yazılım geliştirmek ve yazılım uzmanı olmak isteyenler nereden başlamalı , neler öğrenmeli bu yazımda anlatmaya çalışacağım.
@@ -25,24 +25,24 @@ Yazılım uzmanı kısaca yazılım geliştirmek, yazılımların test ve bakım
 
 **Gelecek yazılım teknolojisinin imkanları ile şekilenmektedir.**
 
-<blockquote class='twitter-tweet' data-lang='tr'>
-  <p lang='tr' dir='ltr'>
+<blockquote class=twitter-tweet data-lang=tr>
+  <p lang=tr dir=ltr>
     Kağıt bile ihtal edilirken, yazılım sorusu lüks kaçabilir birilerine. Ancak
     yazılım yeni petroldür. İş ve gelişmenin merkezindedir. İthal samanla
     olmayacağı gibi ihtal yazılıma da bel bağlamamak gerekir.
-    <a href='https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw'>
+    <a href=https://twitter.com/hashtag/linux?src=hash&amp;ref_src=twsrc%5Etfw>
       #linux
     </a>
-    <a href='https://twitter.com/hashtag/pardus?src=hash&amp;ref_src=twsrc%5Etfw'>
+    <a href=https://twitter.com/hashtag/pardus?src=hash&amp;ref_src=twsrc%5Etfw>
       #pardus
     </a>
   </p>
-  &mdash; Ertan Kayalar (@ertankayalar) <a href='https://twitter.com/ertankayalar/status/1049284354403442688?ref_src=twsrc%5Etfw'>8 Ekim 2018</a>
+  &mdash; Ertan Kayalar (@ertankayalar) <a href=https://twitter.com/ertankayalar/status/1049284354403442688?ref_src=twsrc%5Etfw>8 Ekim 2018</a>
 </blockquote>
 <script
   async
-  src='https://platform.twitter.com/widgets.js'
-  charset='utf-8'
+  src=https://platform.twitter.com/widgets.js
+  charset=utf-8
 ></script>
 
 Şirketler, yazılım geliştiricilere şu alanlarda ihtiyaç duyarlar:
@@ -137,25 +137,25 @@ UML, (Unified Modeling Language) nesneye yönelimli programlamada (OOP) sınıf 
 Yazılım geliştirme ile ilgili bu sayfaya sığmayacak kadar çok web sitesi bulunmaktadır. Bu nedenle sık ziyaret ettiğim veya faydalı yazılımların bulunduğu sitelerden seçtim.
 
 - [Mozilla Developer Network](https://developer.mozilla.org/tr/) Mozilla vakfının javascript ve uygulama geliştirme kütüphanesi
-- [React JS]('https://reactjs.org/') Facebook yazılım ekibinin geliştirdiği frontend js kütüphanesi
-- [Vue JS]('https://vuejs.org') Progressive JS Framework
-- [Angular JS]('https://angular.io') Google ekibinin geliştirdiği JS Framework
-- [WordPress Codex]('https://codex.wordpress.org/') WordPress programcılarının temel kaynağı
-- [Stack Overflow]('https://stackoverflow.com/') Dünya genelinde programcıların birbirlerine sorular yönelttikleri, yardımlaştığı popüler site
-- [Git]('https://git-scm.com/') Git ile sürüm yönetim servis sağlayıcı
-- [Django]('https://www.djangoproject.com/') Python Web Framework
-- [Flask]('https://flask.palletsprojects.com/') Python Web Framework
-- [Symfony]('https://symfony.com/') Endüstri standardı olmuş PHP framework.
-- [Laravel]('https://laravel.com/') Popüler PHP framework
-- [Yii PHP Framework]('https://www.yiiframework.com/')
-- [Tutsplus]('https://code.tutsplus.com/') Kodlama üzerine yazılar
-- [Smashing Magazine]('https://www.smashingmagazine.com/') Web Tasarım, grafik, kodlama yazıları
-- [ASP.NET]('https://www.asp.net/') Microsoft ASP.NET programcıları için web sitesi
-- [Atom Editör]('https://atom.io/') Ücretsiz kodlama editörü
-- [Visual Studio Code]('https://code.visualstudio.com/') Microsoft'un ücretsiz popüler editörü
-- [FreeCodeCamp]('https://www.freecodecamp.org/') Ücretsiz Kodlama Eğitimi
-- [Udemy]('https://www.udemy.com/') Ücretli Video eğitim sitesi
-- [Linkedin Learning]('https://www.linkedin.com/learning/') Ücretli Video eğitim sitesi
+- [React JS](https://reactjs.org/) Facebook yazılım ekibinin geliştirdiği frontend js kütüphanesi
+- [Vue JS](https://vuejs.org) Progressive JS Framework
+- [Angular JS](https://angular.io) Google ekibinin geliştirdiği JS Framework
+- [WordPress Codex](https://codex.wordpress.org/) WordPress programcılarının temel kaynağı
+- [Stack Overflow](https://stackoverflow.com/) Dünya genelinde programcıların birbirlerine sorular yönelttikleri, yardımlaştığı popüler site
+- [Git](https://git-scm.com/) Git ile sürüm yönetim servis sağlayıcı
+- [Django](https://www.djangoproject.com/) Python Web Framework
+- [Flask](https://flask.palletsprojects.com/) Python Web Framework
+- [Symfony](https://symfony.com/) Endüstri standardı olmuş PHP framework.
+- [Laravel](https://laravel.com/) Popüler PHP framework
+- [Yii PHP Framework](https://www.yiiframework.com/)
+- [Tutsplus](https://code.tutsplus.com/) Kodlama üzerine yazılar
+- [Smashing Magazine](https://www.smashingmagazine.com/) Web Tasarım, grafik, kodlama yazıları
+- [ASP.NET](https://www.asp.net/) Microsoft ASP.NET programcıları için web sitesi
+- [Atom Editör](https://atom.io/) Ücretsiz kodlama editörü
+- [Visual Studio Code](https://code.visualstudio.com/) Microsoftun ücretsiz popüler editörü
+- [FreeCodeCamp](https://www.freecodecamp.org/) Ücretsiz Kodlama Eğitimi
+- [Udemy](https://www.udemy.com/) Ücretli Video eğitim sitesi
+- [Linkedin Learning](https://www.linkedin.com/learning/) Ücretli Video eğitim sitesi
 
 ## Nereden başlamalı ? {#nereden-baslamali}
 
@@ -174,6 +174,6 @@ Yazılım uzmanı olmak istiyorsanız öğrenmek zorunda olduğunuz bilginin siz
 
 Bu yazımı beğendiyseniz sosyal medyada paylaşmayı unutmayın!
 
-Bu yazıyı pinterest'te pinlemek için aşağıdaki görseli kullanabilirsiniz.
+Bu yazıyı pinterestte pinlemek için aşağıdaki görseli kullanabilirsiniz.
 
 ![yazılım uzmanı olmak isteyenlere tavsiyeler pinterest](/assets/blog/yazilim-uzmani-olmak-pin.png)

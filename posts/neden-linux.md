@@ -16,7 +16,7 @@ Linux, internet tv’den cep telefonlarına kadar çok geniş bir alanda kullan�
 
 - Linux’un kurulumu ve kullanımı zordur: Aslında linux isminde bir işletim sistemi yok. Linux çekirdek yazılımdan ibarettir. <a href="https://distrowatch.com/" rel="noreferrer noopener nofollow" target="_blank">Distro</a> olarak adlandırılan birçok dağıtım bulunmaktadır. Dağıtımlar farklı kurulum yazılımları kullanıyorlar. Hemen hepsinin kurulum yazılımları Windows kuruluşundan daha iyi diyebilirim.
 - Linux kalitesi düşük veya ucuzdur: Linux ücretsizdir. İnsanlar kalite için para vermeye alışkınlar. Oysa Linux söylediğim gibi pek çok markanın arkasındaki teknoloji.
-- Her şeyi komut satırından yapmak zorundasın: Aslında komut satırı [yazılım geliştiriciler](https://ertankayalar.com.tr/blog/yazilim-uzmani-rehberi/) için büyük bir avantajdır. Bugün Microsoft, Canonical (Ubuntu) ile bu konuda bir çalışma gerçekleştirdi. Fakat birbirinden zengin masaüstü seçeneklerinden beğendiğiniz birisini tercih ederek kolayca kullanabilirsiniz.
+- Her şeyi komut satırından yapmak zorundasın: Aslında komut satırı [yazılım geliştiriciler](https://ertankayalar.com.tr/blog/yazilim-uzmani-olmak/) için büyük bir avantajdır. Bugün Microsoft, Canonical (Ubuntu) ile bu konuda bir çalışma gerçekleştirdi. Fakat birbirinden zengin masaüstü seçeneklerinden beğendiğiniz birisini tercih ederek kolayca kullanabilirsiniz.
 - Linux donanım uyumsuzluğu vardır , grafik kartı, klavye vb: yıllar önce bu konu doğruydu. Bugün modern dağıtımların hepsi Mac ve Windows kadar tak ve çalıştır özelliğine sahiptir.
 
 # Neden Linux Kullanıyorum ?
@@ -68,7 +68,7 @@ Netbeans, Phpstorm, Visual Studio Code veya Sublime Text editörlerini kurabilir
 Microsoft'un popüler kod editörü Visual Studio Code gibi bir çok programlama aracını linuxda kullanmak mümkün.
 
 **8) Sanallaştırma**
-Doğal olarak [özel yazılım geliştirirken](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/) farklı platformlarda veya araçlarda yazılımı test etme ihtiyacı doğuyor. Bunun için sanal sunucu kiralamak yerine sanallaştırma etkili bir çözüm olabiliyor.
+Doğal olarak [özel yazılım geliştirirken](https://ertankayalar.com.tr/blog/ozel-yazilim-yaptirmak/) farklı platformlarda veya araçlarda yazılımı test etme ihtiyacı doğuyor. Bunun için sanal sunucu kiralamak yerine sanallaştırma etkili bir çözüm olabiliyor.
 
 Farklı sanallaştırma seçenekleri elinizin altında. <a href="https://www.virtualbox.org/" rel="noreferrer noopener nofollow" target="_blank">Virtualbox</a>, <a href="https://www.docker.com/" rel="noreferrer noopener nofollow" target="_blank">Docker</a>, <a href="https://www.vagrantup.com/" rel="noreferrer noopener nofollow" target="_blank">Vagrant</a>, <a href="https://github.com/laravel/homestead" rel="noreferrer noopener nofollow" target="_blank">Laravel Homestead</a> zahmetsiz kurup kullanabileceğiniz çözümler.
 
@@ -103,6 +103,6 @@ Linux’u bilgisayarınıza hemen kurup denemeye başlamdan önce bir çok seçe
 Hem Linux hem de Windows/Mac sistemlerini farklı disk bölümlerinde kullanmak da mümkün. Bu konuda biraz dikkatli olursanız başınıza bir iş gelmez.
 
 **Sonuç**
-Linux, yazılım geliştirmek için benzersiz bir ortam sunuyor. Yazılım geliştirme işiyle uğraşıyorsanız hele [web tabanlı yazılımlar](https://ertankayalar.com.tr/blog/symfony-php-framework/) geliştiriyorsanız Linux size benzersiz bir ortam sunuyor. Yazılım geliştici olmasanız bile Linux, günlük işlerinizi görmek için de idealdir. Kullanımı ve yönetimi pratiktir.
+Linux, yazılım geliştirmek için benzersiz bir ortam sunuyor. Yazılım geliştirme işiyle uğraşıyorsanız hele [web tabanlı yazılımlar](https://ertankayalar.com.tr/blog/symfony-framework/) geliştiriyorsanız Linux size benzersiz bir ortam sunuyor. Yazılım geliştici olmasanız bile Linux, günlük işlerinizi görmek için de idealdir. Kullanımı ve yönetimi pratiktir.
 
 Linux ile tanışmamakla çok şey kaybedersiniz.

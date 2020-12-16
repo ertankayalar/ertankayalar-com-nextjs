@@ -116,6 +116,6 @@ Web sitenizde daha çok bilgi vermek müşterinin aşağıdaki konuları kavrama
 
 Artık yeni bir dünyadayız. Müşteriyi ciddiye almak, onun ihtiyaçları ve kafasındaki soruları cevaplamak, müşteriye daha çok bilgi vermek zorundayız.Özellikle B2B alanında. Bu gerçeği erken farkeden erken yol alıyor.
 
-Daha fazla öğrenmek için [İçerik pazarlaması](https://pazarlama.info.tr/icerik-pazarlamasi/) sayfamı okuyabilirsiniz.
+Daha fazla öğrenmek için [İçerik pazarlaması](https://pazarlama.info.tr/icerik-pazarlamasi-yapin/) sayfamı okuyabilirsiniz.
 
 Eğer bu yazıyı beğendiyseniz sosyal medyada paylaşmayı unutmayın!

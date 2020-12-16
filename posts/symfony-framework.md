@@ -40,7 +40,7 @@ Yeni gelen özelliklerinden en çok sevdiğim ilk üçü şöyle:
 - Hafif bir sürüm: daha az sayıda dosyalar olarak geliyor
 - Flex: istediğiniz paketleri kolayca projenize ekliyorsunuz
 
-Symfony iyi bir [yazılım mimarisine](https://ertankayalar.co.tr/blog/yazilim-mimarisi-tasarlama/) sahip.
+Symfony iyi bir [yazılım mimarisine](https://ertankayalar.com.tr/blog/yazilim-mimarisi-tasarlama/) sahip.
 
 Tipik bir Symfony uygulamasında klasörler aşağıdaki gibi oluşuyor.
 

@@ -51,7 +51,7 @@ Açık kaynak (Open source) uygulamalar, adı üstünde yazılım kodunun açık
 
 Bugün yazılım dünyasında, <a href="https://webtasarimsitesi.com/wordpress-joomla-drupal/" target="_blank">WordPress, Joomla, Drupal</a> gibi pek çok uygulama açık kaynak uygulamalardır. Telefon ve tabletlerde bulunan Android yazılımı, aslında Linux sisteminin çok az bir kısmı değiştirilerek ortaya çıkan başarılı bir örnektir.
 
-Açık kaynak teknlojilerinin çoğunda lisans için ücret ödemezsiniz. Örneğin Facebook dünya genelindeki onbinlerce sunucusunda <a href="https://ertankayalar.com.tr/neden-linux/">Linux</a> kullanmaktadır. Eğer Microsoft Windows kullansaydı korkunç bir lisans maliyeti ödeyecekti.
+Açık kaynak teknlojilerinin çoğunda lisans için ücret ödemezsiniz. Örneğin Facebook dünya genelindeki onbinlerce sunucusunda <a href="https://ertankayalar.com.tr/blog/neden-linux/">Linux</a> kullanmaktadır. Eğer Microsoft Windows kullansaydı korkunç bir lisans maliyeti ödeyecekti.
 
 <h2 id='platform'>Yazılım her platformda çalışabilmelidir</h2>
 
