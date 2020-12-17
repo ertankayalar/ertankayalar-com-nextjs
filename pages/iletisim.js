@@ -1,23 +1,29 @@
-import Head from 'next/head'
-import Layout, { siteTitle } from '../components/layout'
+import Layout from '../components/layout'
 import Link from 'next/link'
+import Image from 'next/image'
+import { NextSeo } from 'next-seo'
+import { SITE_TITLE } from '../lib/constants'
 
 export default function contact() {
   return (
     <Layout home layoutFormat='fullwidth'>
-      <Head>
-        <title>İletişim - {siteTitle}</title>
-      </Head>
+      <NextSeo
+        title={'İletişim - ' + SITE_TITLE}
+        description='Ertan Kayalar İletişim Sayfası'
+        canonical={process.env.url + 'iletisim'}
+      />
 
       <div className='flex flex-col sm:flex-row justify-center space-y-12 space-x-0 sm:space-x-12 sm:space-y-0 items-start'>
-        <div className='w-full md:w-1/3 pt-5'>
-          <img
-            src='/assets/ek-medium-19v1-225x300.jpg'
+        <div className='w-full   md:w-1/4 my-auto   flex content-center justify-center '>
+          <Image
+            src='/assets/author.jpg'
             alt='ertan kayalar'
-            className='mx-auto shadow-lg'
+            className='rounded mt-20'
+            width='150'
+            height='148'
           />
         </div>
-        <article className='w-full md:w-2/3 h-auto prose-sm md:prose-lg py-10 text-center sm:text-left'>
+        <article className='w-full md:w-3/4  prose-sm md:prose-lg md:py-10 text-center sm:text-left'>
           <h1>Bana Ulaşın</h1>
 
           <p className='text-md md:text-lg font-normal'>

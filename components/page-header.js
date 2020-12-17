@@ -1,6 +1,6 @@
-import Head from 'next/head'
 import Link from 'next/link'
 import Nav from './nav'
+import { SITE_TITLE } from '../lib/constants'
 
 class PageHeader extends React.Component {
   constructor(props) {
@@ -25,7 +25,7 @@ class PageHeader extends React.Component {
             <span className='text-3xl text-gray-700 mx-auto lg:ml-0'>
               <Link href='/'>
                 <a>
-                  <img src='/logo.png' alt={this.props.siteTitle} />
+                  <img src='/logo.png' alt={SITE_TITLE} />
                 </a>
               </Link>
             </span>

@@ -1,15 +1,16 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Layout, { siteTitle } from '../components/layout'
+import Layout from '../components/layout'
+import { NextSeo } from 'next-seo'
 
 export default function Home() {
   return (
     <Layout home>
-      <Head>
-        <title>{siteTitle}</title>
-        <link rel='icon' href='/favicon.ico' />
-      </Head>
-
+      <NextSeo
+        title='Fullstack Web Developer - Ertan Kayalar'
+        description='React, Django, Symfony, Laravel Web Developer'
+        canonical={process.env.url}
+      />
       <main className='w-full'>
         <div className='container mx-auto'>
           <div className='text-center font-bold my-10 border-b-2'>

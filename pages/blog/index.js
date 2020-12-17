@@ -1,20 +1,23 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Layout, { siteTitle } from '../../components/layout'
+import Layout from '../../components/layout'
 import { getSortedPostsData } from '../../lib/posts'
+import { SITE_TITLE } from '../../lib/constants'
+import { NextSeo } from 'next-seo'
 
 export default function Blog({ allPostsData }) {
   return (
     <Layout home>
-      <Head>
-        <title>{siteTitle}</title>
-      </Head>
-
+      <NextSeo
+        title={'Web Development Yazıları - ' + SITE_TITLE}
+        description='Web sitesi geliştirme, girişimcilik ile ilgili yazılar'
+        canonical={process.env.url + 'blog'}
+      />
       <article className='my-5'>
         <h1 className='text-3xl text-gray-700'>Yazılar</h1>
         {allPostsData.map(({ id, title }) => (
           <div className='w-full' key={id}>
-            <Link href='/blog/[id]' as={`/blog/${id}`}>
+            <Link href='/[id]' as={`/${id}`}>
               <a>
                 <h2 className='text-lg text-gray-700 my-5 hover:text-primary-700'>
                   {title}

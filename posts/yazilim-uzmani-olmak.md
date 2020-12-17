@@ -1,7 +1,9 @@
 ---
-title: Yazılım Uzmanı Olmak İsteyenlere Tavsiyeler
-date: 2018-11-05
-coverImage: /assets/blog/yazilim-uzmani-olmak-post.png
+title: 'Yazılım Uzmanı Olmak İsteyenlere Tavsiyeler'
+date: '2018-11-05'
+coverImage: '/assets/blog/yazilim-uzmani-olmak-post.png'
+PageTitle: 'Yazılım Uzmanı (Yazılım Geliştirici) olmak isteyenler'
+SeoDescription: 'Yazılım uzmanı olmak için tavsiyelerim. Yazılım geliştirici ne yapmalı, neleri öğrenmeli ? 30 yıllık yazılım geliştirici tecrübelerimi okuyabilirsiniz.'
 ---
 
 Neredeyse 30 yıldır yazılım geliştirme ile uğraşıyorum. Yazılım geliştirmek ve yazılım uzmanı olmak isteyenler nereden başlamalı , neler öğrenmeli bu yazımda anlatmaya çalışacağım.

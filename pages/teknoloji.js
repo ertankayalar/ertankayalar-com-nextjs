@@ -1,14 +1,16 @@
-import Head from 'next/head'
-import Layout, { siteTitle } from '../components/layout'
+import Layout from '../components/layout'
 import Link from 'next/link'
+import { NextSeo } from 'next-seo'
+import { SITE_TITLE } from '../lib/constants'
 
 export default function contact() {
   return (
     <Layout home layoutFormat='fullwidth'>
-      <Head>
-        <title>Kullandığım Teknolojiler - {siteTitle}</title>
-      </Head>
-
+      <NextSeo
+        title={'Kullandığım Web Development Teknolojileri - ' + SITE_TITLE}
+        description='Fullstack web sitesi geliştirme teknolojileri'
+        canonical={process.env.url + 'teknoloji'}
+      />
       <article className='prose-sm lg:prose-lg'>
         <h1>Kullandığım Teknolojiler</h1>
 
@@ -48,17 +50,17 @@ export default function contact() {
 
             <li>
               Code Editör Teması{' ~ '}
-              <Link href='https://marketplace.visualstudio.com/items?itemName=teabyii.ayu'>
+              <Link href='https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula'>
                 <a className='text-light-accent font-bold border-transparent border-b-2 hover:border-light-accent  border-b-light-accent  transition duration-500 ease-in-out'>
-                  Ayu Mirage
+                  Dracula
                 </a>
               </Link>
             </li>
             <li>
               Code Editör Font{' ~ '}
-              <Link href='https://github.com/microsoft/cascadia-code/releases'>
+              <Link href='https://www.jetbrains.com/lp/mono/'>
                 <a className='text-light-accent font-bold border-transparent border-b-2 hover:border-light-accent  border-b-light-accent  transition duration-500 ease-in-out'>
-                  Cascadia Code
+                  JetBrains Mono
                 </a>
               </Link>
             </li>
@@ -116,9 +118,9 @@ export default function contact() {
             </li>
             <li>
               Tarayıcı{' ~ '}
-              <Link href='https://www.google.com/chrome/'>
+              <Link href='https://vivaldi.com/tr/'>
                 <a className='text-light-accent font-bold border-transparent border-b-2 hover:border-light-accent  border-b-light-accent  transition duration-500 ease-in-out'>
-                  Google Chrome
+                  Vivaldi
                 </a>
               </Link>
             </li>

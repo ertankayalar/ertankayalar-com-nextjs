@@ -1,17 +1,20 @@
-import Head from 'next/head'
-import Layout, { siteTitle } from '../../components/layout'
-import { getAllPostIds, getPostData } from '../../lib/posts'
-import DateFormater from '../../components/date-formater'
-import AuthorPostInfo from '../../components/author-post-info'
-
+import Layout from '../components/layout'
+import { getAllPostIds, getPostData } from '../lib/posts'
+import DateFormater from '../components/date-formater'
+import AuthorPostInfo from '../components/author-post-info'
+import { NextSeo } from 'next-seo'
+import { SEO_DESCRIPTION } from '../lib/constants'
+import { SITE_TITLE } from '../lib/constants'
 export default function Post({ postData }) {
   return (
     <Layout>
-      <Head>
-        <title ey='title'>
-          {postData.title} - {siteTitle}
-        </title>
-      </Head>
+      <NextSeo
+        title={postData.title + ' - ' + SITE_TITLE}
+        description={
+          postData.SeoDescription ? postData.SeoDescription : SEO_DESCRIPTION
+        }
+        canonical={process.env.url + postData.id}
+      />
       <article className='w-full mt-10 mb-32'>
         {postData.coverImage && (
           <img

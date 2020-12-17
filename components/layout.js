@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import PageHeader from './page-header'
 import PageFooter from './page-footer'
-export const siteTitle = 'Ertan Kayalar'
+import { SITE_TITLE } from '../lib/constants'
 
 export default function Layout({ children }) {
   return (
@@ -33,13 +33,13 @@ export default function Layout({ children }) {
         <meta
           property='og:image'
           content={`https://og-image.now.sh/${encodeURI(
-            siteTitle
+            process.env.url
           )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
         />
-        <meta name='og:title' content={siteTitle} />
+        <meta name='og:title' content={SITE_TITLE} />
         <meta name='twitter:card' content='summary_large_image' />
       </Head>
-      <PageHeader siteTitle={siteTitle} />
+      <PageHeader siteTitle={SITE_TITLE} />
       <main className='max-w-full md:max-w-screen-lg mx-auto py-5 xl:max-w-screen-lg px-5 pb-24 sm:pb-0 w-full flex-1 mb-24 sm:mb20 text-gray-700'>
         {children}
       </main>

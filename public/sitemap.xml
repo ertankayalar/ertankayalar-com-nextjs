@@ -1,76 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-          
-                      <url>
-                          <loc>https://ertankayalar.com.tr/hakkimda</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://ertankayalar.com.tr/iletisim</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://ertankayalar.com.tr/</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://ertankayalar.com.tr/teknoloji</loc>
-                      </url>
-                  
-                      <url>
-                          <loc>https://ertankayalar.com.tr/blog/</loc>
-                      </url>
-                  
-
-            
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/b2b-nedir</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/daha-cok-satis-yapmak</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/internette-strateji</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/neden-linux</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/ozel-yazilim-cozumleri</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/ozel-yazilim-sirketleri</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/ozel-yazilim-yaptirmak</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/php-template-sistemi</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/symfony-framework</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/yazilim-mimarisi-tasarlama</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/yazilim-teknolojileri</loc>
-                          </url>
-                      
-                          <url>
-                              <loc>https://ertankayalar.com.tr/blog/yazilim-uzmani-olmak</loc>
-                          </url>
-                      
-
-      </urlset>
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://ertankayalar.com.tr/</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/blog</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/hakkimda</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/iletisim</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/teknoloji</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/b2b-nedir</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/daha-cok-satis-yapmak</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/internette-strateji</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/neden-linux</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/ozel-yazilim-cozumleri</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/ozel-yazilim-sirketleri</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/ozel-yazilim-yaptirmak</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/php-template-sistemi</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/symfony-framework</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/yazilim-mimarisi-tasarlama</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/yazilim-teknolojileri</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+<url><loc>https://ertankayalar.com.tr/yazilim-uzmani-olmak</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2020-12-17T15:23:49.207Z</lastmod></url>
+</urlset>
