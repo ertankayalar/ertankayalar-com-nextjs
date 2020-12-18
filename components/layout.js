@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import PageHeader from './page-header'
-import PageFooter from './page-footer'
+import Header from './header'
+import Footer from './footer'
 import { SITE_TITLE } from '../lib/constants'
 
 export default function Layout({ children }) {
@@ -39,12 +39,12 @@ export default function Layout({ children }) {
         <meta name='og:title' content={SITE_TITLE} />
         <meta name='twitter:card' content='summary_large_image' />
       </Head>
-      <PageHeader siteTitle={SITE_TITLE} />
+      <Header siteTitle={SITE_TITLE} />
       <main className='max-w-full md:max-w-screen-lg mx-auto py-5 xl:max-w-screen-lg px-5 pb-24 sm:pb-0 w-full flex-1 mb-24 sm:mb20 text-gray-700'>
         {children}
       </main>
 
-      <PageFooter />
+      <Footer />
     </div>
   )
 }

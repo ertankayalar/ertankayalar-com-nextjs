@@ -1,4 +1,3 @@
-import Head from 'next/head'
 import Link from 'next/link'
 import Layout from '../../components/layout'
 import { getSortedPostsData } from '../../lib/posts'
@@ -7,7 +6,7 @@ import { NextSeo } from 'next-seo'
 
 export default function Blog({ allPostsData }) {
   return (
-    <Layout home>
+    <Layout>
       <NextSeo
         title={'Web Development Yazıları - ' + SITE_TITLE}
         description='Web sitesi geliştirme, girişimcilik ile ilgili yazılar'
