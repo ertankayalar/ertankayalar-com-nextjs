@@ -8,7 +8,7 @@
 @tailwind components;
 
 
-.post-content a {
+/* .post-content a {
    @apply text-primary-700 !important;
    @apply no-underline !important;
 }
@@ -22,7 +22,7 @@
    @apply rounded-lg;
    @apply border border-gray-200;
    
-}
+} */
 /* .post-content ul {
    list-style: disc !important;
    list-style-position: inside !important;
@@ -41,7 +41,7 @@
    @apply list-inside !important;
    @apply list-decimal !important;
 } */
-
+/* 
 .btn {
     @apply   bg-primary-700 py-3 px-10 m-5 rounded border-primary-600 border-2;
     @apply text-white;
@@ -79,7 +79,7 @@
 
 .btn-lg {
    @apply text-2xl;
-}
+} */
 
 
 

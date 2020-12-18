@@ -1,4 +1,4 @@
-const { colors } = require('tailwindcss/defaultTheme')
+const colors = require('tailwindcss/colors')
 
 module.exports = {
   future: {
@@ -8,88 +8,55 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        orange: {
-          100: '#ffe0b2',
-          200: '#ffcc80',
-          300: '#ffb74d',
-          400: '#ffa726',
-          500: '#ff9800',
-          600: '#fb8c00',
-          700: '#ff6d00',
-          800: '#ef6c00',
-          900: '#e65100',
-        },
-        brown: {
-          50: '#efebe9',
-          100: '#d7ccc8',
-          200: '#bcaaa4',
-          300: '#a1887f',
-          400: '#8d6e63',
-          500: '#795548',
-          600: '#6d4c41',
-          700: '#5d4037',
-          800: '#4e342e',
-          900: '#3e2723',
-        },
-        bluegray: {
-          50: '#eceff1',
-          100: '#cfd8dc',
-          200: '#b0bec5',
-          300: '#90a4ae',
-          400: '#78909c',
-          500: '#607d8b',
-          600: '#546e7a',
-          700: '#455a64',
-          800: '#37474f',
-          900: '#263238',
-        },
-        lightgreen: {
-          50: '#f1f8e9',
-          100: '#dcedc8',
-          200: '#c5e1a5',
-          300: '#aed581',
-          400: '#9ccc65',
-          500: '#8bc34a',
-          600: '#7cb342',
-          700: '#689f38',
-          800: '#558b2f',
-          900: '#33691e',
-        },
-        lightgray: {
-          50: '#fafafa',
-          100: '#f5f5f5',
-          200: '#eeeeee',
-          300: '#e0e0e0',
-          400: '#bdbdbd',
-          500: '#9e9e9e',
-          600: '#757575',
-          700: '#616161',
-          800: '#424242',
-          900: '#212121',
-        },
+        transparent: 'transparent',
+        current: 'currentColor',
 
+        black: colors.black,
+        white: colors.white,
+        gray: colors.coolGray,
+        red: colors.red,
+        yellow: colors.amber,
+        green: colors.emerald,
+        blue: colors.blue,
+        indigo: colors.indigo,
+        purple: colors.violet,
+        pink: colors.pink,
+
+        strong: {
+          lightest: '#848a8e',
+          light: '#5a6369',
+          DEFAULT: '#323D44',
+          dark: '#283036',
+          darkest: '#1e2428',
+        },
         primary: {
-          100: '#ffe0b2',
-          200: '#ffcc80',
-          300: '#ffb74d',
-          400: '#ffa726',
-          500: '#ff9800',
-          600: '#fb8c00',
-          700: '#ff6d00',
-          800: '#ef6c00',
-          900: '#e65100',
+          lightest: '#d2c6ba',
+          light: '#b7a490',
+          DEFAULT: '#A68E75',
+          dark: '#957f69',
+          darkest: '#53473a',
         },
         secondary: {
-          50: '#fafafa',
-          100: '#f5f5f5',
-          200: '#eeeeee',
-          300: '#e0e0e0',
-          400: '#bdbdbd',
-          500: '#9e9e9e',
-          600: '#757575',
-          700: '#616161',
-          800: '#424242',
-          900: '#212121',
+          lightest: '#c3dfe3',
+          light: '#afd5da',
+          DEFAULT: '#9CCBD1',
+          dark: '#8cb6bc',
+          darkest: '#7ca2a7',
+        },
+
+        bright: {
+          lightest: '#fdfdfc',
+          light: '#faf9f7',
+          DEFAULT: '#F7F6F3',
+          dark: '#deddda',
+          darkest: '#c5c4c2',
+        },
+        accent: {
+          lightest: '#eaacb5',
+          light: '#d5596a',
+          DEFAULT: '#CB3046',
+          dark: '#b62b3f',
+          darkest: '#8e2131',
         },
       },
       fontFamily: {
@@ -110,6 +77,38 @@ module.exports = {
           '"Segoe UI Symbol"',
           '"Noto Color Emoji"',
         ],
+      },
+      typography: {
+        DEFAULT: {
+          css: {
+            color: '#5a6369',
+            h1: {
+              color: '#957f69',
+            },
+            h2: {
+              color: '#957f69',
+            },
+            h3: {
+              color: '#957f69',
+            },
+            h4: {
+              color: '#957f69',
+            },
+            h5: {
+              color: '#957f69',
+            },
+            strong: {
+              color: '#5a6369',
+            },
+            a: {
+              color: '#CB3046',
+              textDecoration: 'none',
+              '&:hover': {
+                color: '#d5596a',
+              },
+            },
+          },
+        },
       },
     },
   },
