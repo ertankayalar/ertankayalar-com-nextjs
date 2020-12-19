@@ -1,10 +1,11 @@
 import Layout from '../components/layout'
-import { getAllPostIds, getPostData } from '../lib/posts'
 import DateFormater from '../components/date-formater'
 import Author from '../components/author'
 import { NextSeo } from 'next-seo'
 import { SEO_DESCRIPTION } from '../lib/constants'
 import { SITE_TITLE } from '../lib/constants'
+import { getAllPostIds, getPostData } from '../lib/posts'
+
 export default function Post({ postData }) {
   return (
     <Layout>
