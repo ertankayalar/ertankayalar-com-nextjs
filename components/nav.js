@@ -13,7 +13,7 @@ export default function Nav() {
     <nav className='flex flex-wrap items-center justify-center mr-5 md:mr-0  md:justify-end space-x-4 h-auto md:h-24 text-gray-600'>
       {links.map(({ href, label }) => (
         <Link key={`${href}${label}`} href={href}>
-          <a className='w-full text-right my-1 md:w-auto md:text-left hover:text-gray-800'>
+          <a className='w-full text-right my-1 md:w-auto md:text-left hover:text-accent'>
             {label}
           </a>
         </Link>

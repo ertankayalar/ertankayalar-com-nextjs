@@ -1,7 +1,9 @@
 const Container = ({ children, className, style }) => {
   return (
     <div
-      className={`container mx-auto ${className ? className : ``}`}
+      className={`max-w-screen-md lg:max-w-screen-lg mx-auto ${
+        className ? className : ``
+      }`}
       style={style}
     >
       {children}

@@ -13,7 +13,7 @@ module.exports = {
 
         black: colors.black,
         white: colors.white,
-        gray: colors.coolGray,
+        gray: colors.blueGray,
         red: colors.red,
         yellow: colors.amber,
         green: colors.emerald,
@@ -23,25 +23,25 @@ module.exports = {
         pink: colors.pink,
 
         strong: {
-          lightest: '#848a8e',
-          light: '#5a6369',
-          DEFAULT: '#323D44',
-          dark: '#283036',
-          darkest: '#1e2428',
+          lightest: '#94A3B8',
+          light: '#64748B',
+          DEFAULT: '#475569',
+          dark: '#334155',
+          darkest: '#1E293B',
         },
         primary: {
-          lightest: '#d2c6ba',
-          light: '#b7a490',
-          DEFAULT: '#A68E75',
-          dark: '#957f69',
-          darkest: '#53473a',
+          lightest: '#af68ea',
+          light: '#9436e3',
+          DEFAULT: '#7A04DD',
+          dark: '#6103b0',
+          darkest: '#490284',
         },
         secondary: {
-          lightest: '#c3dfe3',
-          light: '#afd5da',
-          DEFAULT: '#9CCBD1',
-          dark: '#8cb6bc',
-          darkest: '#7ca2a7',
+          lightest: '#c1d3d4',
+          light: '#adc5c6',
+          DEFAULT: '#99B7B8',
+          dark: '#89a4a5',
+          darkest: '#7a9293',
         },
 
         bright: {
@@ -52,11 +52,11 @@ module.exports = {
           darkest: '#c5c4c2',
         },
         accent: {
-          lightest: '#eaacb5',
-          light: '#d5596a',
-          DEFAULT: '#CB3046',
-          dark: '#b62b3f',
-          darkest: '#8e2131',
+          lightest: '#f8b494',
+          light: '#f38753',
+          DEFAULT: '#F16A29',
+          dark: '#d85f24',
+          darkest: '#c05420',
         },
       },
       fontFamily: {
@@ -81,30 +81,30 @@ module.exports = {
       typography: {
         DEFAULT: {
           css: {
-            color: '#5a6369',
+            color: '#475569',
             h1: {
-              color: '#957f69',
+              color: '#334155',
             },
             h2: {
-              color: '#957f69',
+              color: '#334155',
             },
             h3: {
-              color: '#957f69',
+              color: '#334155',
             },
             h4: {
-              color: '#957f69',
+              color: '#334155',
             },
             h5: {
-              color: '#957f69',
+              color: '#334155',
             },
             strong: {
               color: '#5a6369',
             },
             a: {
-              color: '#CB3046',
+              color: '#F16A29',
               textDecoration: 'none',
               '&:hover': {
-                color: '#d5596a',
+                color: '#7A04DD',
               },
             },
           },

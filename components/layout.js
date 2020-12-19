@@ -40,9 +40,13 @@ export default function Layout({ children }) {
         <meta name='twitter:card' content='summary_large_image' />
       </Head>
       <Header siteTitle={SITE_TITLE} />
-      <main className='max-w-full md:max-w-screen-lg mx-auto py-5 xl:max-w-screen-lg px-5 pb-24 sm:pb-0 w-full flex-1 mb-24 sm:mb20 text-gray-700'>
+      <div className='min-h-full'>
+        <main>{children}</main>
+      </div>
+
+      {/* <main className='max-w-full md:max-w-screen-lg mx-auto py-5 xl:max-w-screen-lg px-5 pb-24 sm:pb-0 w-full  mb-24 sm:mb20 text-gray-700'>
         {children}
-      </main>
+      </main> */}
 
       <Footer />
     </div>
