@@ -113,7 +113,7 @@ export default function PageFooter() {
       </ul>
 
       <div className='w-full text-gray-600 py-10 border-t mt-20 mb-20'>
-        <div className='container text-center text-sm md:text-lg mx-auto '>
+        <div className='container text-center text-sm md:text-md mx-auto '>
           <svg
             className='w-6 h-6 inline-block m-2'
             fill='none'
@@ -146,6 +146,10 @@ export default function PageFooter() {
           </svg>{' '}
           by Ertan Kayalar &copy; 2016 - {new Date().getFullYear()}. Tüm hakları
           saklıdır. <span>İzinsiz kopyalanamaz.</span>
+          {'  '}
+          <Link href='/credits'>
+            <a className='text-accent hover:text-primary'>Credits</a>
+          </Link>
         </div>
       </div>
     </footer>
