@@ -14,7 +14,7 @@ Programcılar arasında sürüp giden tartışmalardan bir tanesi de framework k
 
 **İşinizi daha iyi yapmanızı sağlayacak her konuyu ciddiye alın.**
 
-Bana göre framework, programcıya bir kalıp sunarak işini kolaylaştırıyor. Programcıların bir araya gelerek ortak akıl yürütmesi ile etkili bir yapı ortaya çıkıyor. Özellikle ekip olarak çalışıyorsanız framework kullanımı, yazılım geliştirme takımınızın izleyeceği programlama prensipleri ile projenizin sağlıklı ve sorunsuz yürümesini sağlayacaktır. Özetle frameworkler [özel yazılım geliştirmek](https://ertankayalar.com.tr/blog/ozel-yazilim-yaptirmak/) için ideal araçlardır.
+Bana göre framework, programcıya bir kalıp sunarak işini kolaylaştırıyor. Programcıların bir araya gelerek ortak akıl yürütmesi ile etkili bir yapı ortaya çıkıyor. Özellikle ekip olarak çalışıyorsanız framework kullanımı, yazılım geliştirme takımınızın izleyeceği programlama prensipleri ile projenizin sağlıklı ve sorunsuz yürümesini sağlayacaktır. Özetle frameworkler [özel yazılım geliştirmek](/ozel-yazilim-yaptirmak/) için ideal araçlardır.
 
 ## Symfony öğrenmesi çok zor bir framework mü ?
 
@@ -40,13 +40,13 @@ Yeni gelen özelliklerinden en çok sevdiğim ilk üçü şöyle:
 - Hafif bir sürüm: daha az sayıda dosyalar olarak geliyor
 - Flex: istediğiniz paketleri kolayca projenize ekliyorsunuz
 
-Symfony iyi bir [yazılım mimarisine](https://ertankayalar.com.tr/blog/yazilim-mimarisi-tasarlama/) sahip.
+Symfony iyi bir [yazılım mimarisine](/yazilim-mimarisi-tasarlama/) sahip.
 
 Tipik bir Symfony uygulamasında klasörler aşağıdaki gibi oluşuyor.
 
 <script src='https://gist.github.com/ertankayalar/dd5d41a87b42ba379384bad68726b268.js'></script>
 
-Detaylar için <a href="http://fabien.potencier.org/symfony4-directory-structure.html" rel="noreferrer noopener nofollow" target="_blank">Fabien'in yazısını</a> okuyabilirsiniz.
+Detaylar için [Fabien'in yazısını](http://fabien.potencier.org/symfony4-directory-structure.html) okuyabilirsiniz.
 
 **Neden hafif sürüm ?**
 Bazı geliştiriciler daha hafif sürüm olduğu için diğerlerini (Laravel, Codeigniter vb) tercih ediyorlar. Symfony’nin başlangıçtaki dosya sayısı ve büyüklüğüne itiraz ediyorlardı.
@@ -77,7 +77,7 @@ Symfony ile kod yazmaya başladığınızda komut satırından güçlü Symfony 
 
 **Bash Aliases**
 
-Her seferinde komut satırında uzun uzun konsole komutu yazmak yerine bash alises tanımlayabilirsiniz. Benim kullandığım <a href="https://gist.github.com/ertankayalar/70ec4ef0410b299ee2e6df9109425af0" rel="noreferrer noopener nofollow" target="_blank">Symfony Bash Alias'lar burada.</a>
+Her seferinde komut satırında uzun uzun konsole komutu yazmak yerine bash alises tanımlayabilirsiniz. Benim kullandığım Symfony Bash Alias'lar [burada.](https://gist.github.com/ertankayalar/70ec4ef0410b299ee2e6df9109425af0)
 
 Bash aliases Linux ve Osx üzerinde sık kullanılan komutları kısa takma adlar kullanarak daha etkili çalışmanızı sağlar. İleride bu konuya gireceğim.
 
@@ -115,7 +115,7 @@ Artık Symfony installer ile kuruluş önerilmiyor. Onun yerine composer ile uyg
 
 Flex reçeteleri ile boş bir Symfony 4 uygulaması kurup ihtiyacınız olan tüm kütüphaneleri projenize ekleyebilirsiniz.
 
-Flex reçetelerini [burada](https://symfony.sh/) bulabilirsiniz.
+Flex reçetelerini [burada](https://symfony.sh) bulabilirsiniz.
 
 ## Symfony sistem gereksinimleri
 
@@ -217,6 +217,6 @@ Bu klasör Twig bundle kurulduğunda oluşturuluyor. Ana klasöre taşınmasın�
 ## Sonuç
 
 Symfony, aktif katılımcı topluluğu ve detaylı dökümanları ile projeleriniz için mutlaka dikkate almanız gereken bir framework.
-Kişisel olarak görüşüm, projeleriniz için iyi bir tercih olacaktır. Her [yazılım uzmanı](https://ertankayalar.com.tr/blog/yazilim-uzmani-olmak/) için mutlaka incelenmesi gereken bir framework.
+Kişisel olarak görüşüm, projeleriniz için iyi bir tercih olacaktır. Her [yazılım uzmanı](/yazilim-uzmani-olmak/) için mutlaka incelenmesi gereken bir framework.
 
 Symfony bir yazıda ele alınmayacak kadar büyük bir framework. Symfony incelemesine sonraki yazılarımda devam edeceğim.

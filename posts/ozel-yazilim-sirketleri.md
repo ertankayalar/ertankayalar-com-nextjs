@@ -32,7 +32,7 @@ Yazılım geliştirme işinde 28 yılı geride bıraktım. Özel yazılım geli�
 1. [Uzun dönemli düşünün](#uzun-donemli)
 1. [Şimdi ne yapmalı ?](#şimdi-ne-yapmalı-)
 
-[Özel yazılım çözümleri arayanlar için 5 önemli adımı](https://ertankayalar.com.tr/blog/ozel-yazilim-cozumleri/) öğrendiyseniz, bir yazılım uzmanı seçmek için sorularınız oluşacaktır. Bütün yazılım firmalarının önceki referanslarının etkileyici olması, sizin projeniz ve işiniz için doğru oldukları anlamına gelmez. Bu süreçte yazılım firmalarını şu noktalarda araştırmanız gerekir.
+[Özel yazılım çözümleri arayanlar için 5 önemli adımı](/ozel-yazilim-cozumleri/) öğrendiyseniz, bir yazılım uzmanı seçmek için sorularınız oluşacaktır. Bütün yazılım firmalarının önceki referanslarının etkileyici olması, sizin projeniz ve işiniz için doğru oldukları anlamına gelmez. Bu süreçte yazılım firmalarını şu noktalarda araştırmanız gerekir.
 
 ## Önce DNA'sına sonra tecrübesine bakın {#tecrube}
 
@@ -118,7 +118,7 @@ Eğer doğru teknolojiler seçilirse:
 - Yazılım ekibi farklı noktalardan rahatlıkla yazılım geliştirebilir
 - Teslim sonrası bakım masraflarını azaltabilirsiniz.
 
-[Ayrıntılı bilgi için modern web geliştirme teknolojileri hakkındaki yazımı okuyabilirsiniz](https://ertankayalar.com.tr/blog/yazilim-teknolojileri/)
+[Ayrıntılı bilgi için modern web geliştirme teknolojileri hakkındaki yazımı okuyabilirsiniz](/yazilim-teknolojileri/)
 
 ## 6) Projenizin nasıl host edileceğini öğrenin {#web-hosting}
 
@@ -130,7 +130,7 @@ Web hosting fiyata dahil midir ? Yazılım firması bu konuda size nasıl yardı
 **Hangi web hosting platformu kullanılacak ?**
 Web tabanlı yazılım projeniz için kritik noktalardan bir tanesi kullanacağınız platformdur. Web hosting alanında bugün en yaygın platform Linux’tur. Yukarıdaki "Yazılım her platformda çalışabilmelidir" sözümü bir kez daha tekrar etmiş olalım.
 
-Linux sunucular, Facebook veya Google gibi büyük ve başarılı şirketlerin kullandığı sunuculardır. [Neden Linux kullanmalı](https://ertankayalar.com.tr/blog/neden-linux/) yazımı okuabilirsiniz.
+Linux sunucular, Facebook veya Google gibi büyük ve başarılı şirketlerin kullandığı sunuculardır. [Neden Linux kullanmalı](/neden-linux/) yazımı okuabilirsiniz.
 
 Yüksek performans, güvenlik ve daha uygun fiyatlarla sunucu kiralama, sanal sunucu gibi çözümleri bulabilirsiniz.
 

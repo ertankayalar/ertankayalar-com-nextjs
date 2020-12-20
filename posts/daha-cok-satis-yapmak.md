@@ -91,12 +91,12 @@ _Ürününüz müşterinizin bir ihtiyacını gideriyor veya bir problemini çö
 Nasıl çözdüğünüzü anlatın. Onlara gösterin. İşte farklı alanlar için birkaç örnek:
 
 -Bir makina mı imal ediyorsunuz, nasıl çalıştığını gösterin. Bir video iş
-görebilir. [Singer dikiş konusunda ne kadar çok bilgi vermiş.](https://www.youtube.com/user/SingerTurkiye)
+görebilir. [Singer](https://www.youtube.com/user/SingerTurkiye) dikiş konusunda ne kadar çok bilgi vermiş.</a>
 
 - Bir yazılım mı geliştiriyorsunuz onlara işlerini nasıl kolaylaştıracağını
   gösterin.
 - Ara malı üretiyorsanız satın alma rehberi veya teknik doküman oluşturun.
-  -Ürünün çevresindeki sorunları veya ihtiyaçlarda yardım edin.[Bearbrand sakal ve saç konusunda yardım ediyor.](https://www.youtube.com/user/TheBeardbrand)
+- Ürünün çevresindeki sorunları veya ihtiyaçlarda yardım edin. [Bearbrand](https://www.youtube.com/user/TheBeardbrand) sakal ve saç konusunda yardım ediyor.
 
 Müşteri odaklı düşünerek hareket etmeli, tüm temas noktalarının (elbette web sitenizi) mükemmel olması için çalışmalısınız.
 

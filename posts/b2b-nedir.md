@@ -8,7 +8,7 @@ Eğer Google'a **B2B Nedir** sorusunu sorarsanız teknik jargonla yüklü bir di
 
 ## B2B Nedir ?
 
-[B2B](http://tr.wikipedia.org/wiki/B2B "b2b" target="\_blank" rel="noreferrer noopener nofollow") ingilizce "Business to Business" kelimesinin kısaltmasıdır. Firmadan firmaya
+[B2B](http://tr.wikipedia.org/wiki/B2B) ingilizce "Business to Business" kelimesinin kısaltmasıdır. Firmadan firmaya
 (şirketler arası) ticarete verilen kısaltmadır. **İnternette, e-biz olarak da bilinen
 B2B (işletmeden işletmeye), işletmeler ve tüketiciler arasında değil, işletmeler
 arasında ürün, hizmet veya bilgi alışverişidir (e-ticaret).**

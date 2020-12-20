@@ -9,21 +9,21 @@ Neredeyse 30 yıldır kodlamaya uğraşıyorum. Hazırlıksız girişilen pek ç
 
 Bu nedenle özel yazılım yaptırmadan önce aşağıdaki önemli noktaları kavramak size çok kritik avantajlar sağlayacaktır.
 
-1. [ Okumayı ve yazmayı sevin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#okuma)
-1. [ İsteklerinizi listeleyin](https://ertankayalar.com/ozel-yazilim-yaptirmak/#listele)
-1. [ Planlı olun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#plan)
-1. [ Yazılım geliştirme ekibine zaman ayırın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#zaman)
-1. [ İşveren değil partner](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#partner)
-1. [ Herkesin projeye katkı yapmasını sağlayın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#herkes)
-1. [ Özel yazılım ucuz bir iş değildir](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#ucuz-degildir)
-1. [ Sabırlı olun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#sabirli-olun)
-1. [ Aşamalara bölerek çalışın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#asamalara-bolun)
-1. [ Çok fazla şeyi aynı anda hedeflemeyin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#daha-az-hedef-belirleyin)
-1. [ Tekerleği yeniden icat etmelerini istemeyin](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#haziri-kullanin)
-1. [ İletişiminiz daima yazılı olsun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#yazili-iletisim)
-1. [ Bir sözleşmeniz olsun](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#sozlesme)
-1. [ Yazılımın tamamlanmasından sonrasını da düşünün](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#bakim)
-1. [ Bonus püf noktası: Size doğruları söyleyen bir programcı ile çalışın](https://ertankayalar.com.tr/ozel-yazilim-yaptirmak/#gercekler)
+1. [ Okumayı ve yazmayı sevin](#okuma)
+2. [ İsteklerinizi listeleyin](https://ertankayalar.com#listele)
+3. [ Planlı olun](#plan)
+4. [ Yazılım geliştirme ekibine zaman ayırın](#zaman)
+5. [ İşveren değil partner](#partner)
+6. [ Herkesin projeye katkı yapmasını sağlayın](#herkes)
+7. [ Özel yazılım ucuz bir iş değildir](#ucuz-degildir)
+8. [ Sabırlı olun](#sabirli-olun)
+9. [ Aşamalara bölerek çalışın](#asamalara-bolun)
+10. [ Çok fazla şeyi aynı anda hedeflemeyin](#daha-az-hedef-belirleyin)
+11. [ Tekerleği yeniden icat etmelerini istemeyin](#haziri-kullanin)
+12. [ İletişiminiz daima yazılı olsun](#yazili-iletisim)
+13. [ Bir sözleşmeniz olsun](#sozlesme)
+14. [ Yazılımın tamamlanmasından sonrasını da düşünün](#bakim)
+15. [ Bonus püf noktası: Size doğruları söyleyen bir programcı ile çalışın](#gercekler)
 
 ## 1) Okumayı ve yazmayı sevin {#okuma}
 
@@ -147,7 +147,9 @@ Dışarıda sayısız ücretsiz yazılım var. Açık kaynak kodlu yazılımlar 
 
 Uzun süre web siteleri oluştururken [WordPress](https://tr.wordpress.org) kullandık. WordPress, daha düşük maliyete daha çok fonksiyon ve özelliklere sahip web siteleri sahip olma fırsatı veriyor.
 
-Ancak herşeyi WordPress ile çözmek mümkün değil. WordPress ile tema ve eklenti programlamak mümkün. Her özel yazılımın ihtiyacına göre farklı araçlar kullanılması gerekiyor. Bu noktada [Symfony](https://ertankayalar.com.tr/blog/symfony-framework/) veya [Laravel](https://laravel.com) PHP frameworklerden başlayarak [Django](https://djangoproject.com) veya [NextJS](https://nextjs.org) gibi teknolojiler öneriyorum.
+Ancak herşeyi WordPress ile çözmek mümkün değil. WordPress ile tema ve eklenti programlamak mümkün. Her özel yazılımın ihtiyacına göre farklı araçlar kullanılması gerekiyor. Bu noktada [Symfony](/symfony-framework/) veya
+[Laravel](https://laravel.com) PHP frameworklerden başlayarak
+[Django](https://djangoproject.com) veya [Next.JS](https://nextjs.org) gibi teknolojiler öneriyorum.
 
 Projenin ihtiyaçları ve hedefleri hangi teknolojiyi seçmemiz gerektiğine karar vermemizi sağlıyor.
 
@@ -181,7 +183,7 @@ Yazılım geliştirme projesinde küçük adımlarla hedeflerinize ulaştıracak
 
 Mümkün oldukça "hazır malzeme" kullanın. Problemlerinizi çözecek parçalar daha önce başkaları tarafından hazırlanmış olabilir. Programcıya bunları kullanıp kullanamayacağını sorun.
 
-WordPress, binlerce eklenti ve teması ile kısa sürede bir web sitesi kurmanızı sağlar. Örneğin WooCommerce eklentisi ile aynı anda hem bir blog hem de bir sanal mağazanız olabilir. <a href="https://pazarlama.info.tr/">Ayrıca dijital pazarlama yapmak için idealdir.</a>
+WordPress, binlerce eklenti ve teması ile kısa sürede bir web sitesi kurmanızı sağlar. Örneğin WooCommerce eklentisi ile aynı anda hem bir blog hem de bir sanal mağazanız olabilir. (Ayrıca dijital pazarlama yapmak için idealdir.](https://pazarlama.info.tr)
 
 Drupal, Joomla veya Prestashop gibi hazır açık kaynak pek çok çözüm de aynı yoldan gider.
 
@@ -190,12 +192,13 @@ Python, Javascript veya PHP Frameworkler, hazır programlama altyapısı sunarak
 - [Laravel](https://laravel.com)
 - [Symfony](https://symfony.com)
 - [Django](https://djangoproject.com)
-- [Next.Js](https://nextjs.org)
-- [Yii Framework](https://www.yiiframework.com)
-- [Nuxt.Js](https://nuxtjs.org/)
+- [Next.JS](https://nextjs.org)
+- [Yii](https://www.yiiframework.com)
+- [Nuxt.JS](https://nuxtjs.org)
 
 Yazılım teknolojileri ile igili daha fazla ayrıntıyı aşağıdaki yazımda bulabilirsiniz.
-[Özel yazılım teknolojileri seçerken neden dikkatli olmalı ?](https://ertankayalar.com.tr/blog/yazilim-teknolojileri/)
+
+[Özel yazılım teknolojileri seçerken neden dikkatli olmalı ?](/yazilim-teknolojileri/)
 
 ## 12) İletişiminiz daima yazılı olsun {#yazili-iletisim}
 

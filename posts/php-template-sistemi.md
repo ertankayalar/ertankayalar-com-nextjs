@@ -159,9 +159,9 @@ PHP template sistemi gelişmiş olarak pek çok yazılımda kullanılmaktadır. 
 
 Başlıca PHP Template sistemlerine örnek:
 
-- Symfony Framework için <a href="https://twig.symfony.com/" rel="noreferrer noopener nofollow" target="_blank">Twig</a>
-- Laravel <a href="https://laravel.com/docs/5.7/blade" rel="noreferrer noopener nofollow" target="_blank">Blade</a>
-- <a href='https://wordpress.org/extend/themes/' rel='noreferrer noopener nofollow' target='\_blank'> WordPress template sistemi</a>
+- Symfony Framework için [Twig](https://twig.symfony.com)
+- Laravel [Blade](https://laravel.com/docs/8.x/blade)
+- [WordPress template sistemi](https://wordpress.org/extend/themes)
 
 Twig ve Blade şablon motorları framework dışında da tek başına kullanılabilmektedir.
 

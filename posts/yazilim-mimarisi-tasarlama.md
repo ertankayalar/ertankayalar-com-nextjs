@@ -3,7 +3,7 @@ title: 'Yazılım Mimarisi Tasarlarken Nelere Dikkat Etmeli ?'
 date: '2018-11-05'
 ---
 
-Yazılım mimarisi gri bir alandır. İleride tekrar dönmek istemeyeceğiniz kararlar almanız gerekir. Frameworkler, programlama dilleri, uygulama sunucuları, veritabanları vb alanlarda karar vermeyi gerektiren şeylerdir. Yazılım mimarisi programcının uygulamayı geliştirdiği ortamda gelişir. Source control, geliştirme araçları, IDE, soru cevap siteleri vb. [Yazılım uzmanı](/blog/yazilim-uzmani-olmak/) projede başarılı olmak için doğru mimari kararlar almak zorundadır
+Yazılım mimarisi gri bir alandır. İleride tekrar dönmek istemeyeceğiniz kararlar almanız gerekir. Frameworkler, programlama dilleri, uygulama sunucuları, veritabanları vb alanlarda karar vermeyi gerektiren şeylerdir. Yazılım mimarisi programcının uygulamayı geliştirdiği ortamda gelişir. Source control, geliştirme araçları, IDE, soru cevap siteleri vb. [Yazılım uzmanı](/yazilim-uzmani-olmak/) projede başarılı olmak için doğru mimari kararlar almak zorundadır
 
 Yazılım mimarisi tasarlarken aşağıdaki noktalara dikkat etmek gerekiyor.
 
@@ -101,8 +101,8 @@ Kodlama çalışmalarında iyi bir programcı, zamanını kodlamadan daha çok d
 
 Bu yazılar da ilginizi çekebilir:
 
-[Özel yazılım çözümleri hakkında bilmeniz gerekenler](https://ertankayalar.com.tr/blog/ozel-yazilim-cozumleri/)
+[Özel yazılım çözümleri hakkında bilmeniz gerekenler](/ozel-yazilim-cozumleri/)
 
-[Yazılım uzmanı olmak isteyenlere tavsiyeler](https://ertankayalar.com.tr/blog/yazilim-uzmani-olmak/)
+[Yazılım uzmanı olmak isteyenlere tavsiyeler](/yazilim-uzmani-olmak/)
 
 Eğer bu yazıyı beğendiyseniz paylaşmayı unutmayın !

@@ -21,6 +21,20 @@ Neredeyse 30 yıldır yazılım geliştirme ile uğraşıyorum. Yazılım geliş
 
 Yazılım uzmanı kısaca yazılım geliştirmek, yazılımların test ve bakımlarını yapan meslek gurubuna verilen genel bir terimdir. Genelde yazılım uzmanı, yazılım geliştirici anlamında yaygın olarak kullanılmaktadır.
 
+Yazılım mühendisi, yazılım uzmanı, yazılım geliştirici, programcı gibi pek çok terim bulunmasına rağmen genel olarak yazılım uzmanı, yazılım geliştirme sektöründe kabul görmüş bir tanımlamadır.
+
+Yazılım mühendisi, bilgisayar veya yazılımın çalıştığı her ortam içinde yazılım ve sistemlerin tasarım, geliştirme, bakım, test ve değerlendirme gibi mühendislik prensiplerini uygulayan kişidir.
+
+Yazılım uzmanı yukarıdaki tanımın dışında, pratik hayatta belirli bir yazılım/yazılım alanı konusunda uzmanlaşmış kişiler için de kullanılmaktadır.
+
+Mühendislik veya uzmanlık kavramları birbirinin yerine kullanılmaktadır. (İngilizce engineer kelimesinden geliyorr.)
+
+Yazılım geliştirici; (ingilizce Software Developer, Software Programmer) ise yazılımı geliştirmek için bizzat kodlama yapan kişidir.
+
+Küçük ve orta projelerde genelde programcı ve yazılım mühendisi aynı kişi olmaktadır. Büyük yazılım projelerinde ekip içerisinde farklı rollerde uzmanlıklar bulunmaktadır.
+
+[Web developer](/), web tabanlı uygulamalar geliştirenler için kullanılmaktadır. Web geliştiricisi olarak pek yaygınlık kazanmadığından, yazılım gelişitirici veya yazılım uzmanı tanımı daha çok kullanılıyor.
+
 ## Neden yazılım uzmanına ihtiyacımız var ? {#neden}
 
 İş dünyasında ve günlük hayatımızın hemen her alanında bilgisayarlar ve akıllı telefonlar girmiştir. İnternet, tv’ler, arabalar, endüstriyel cihazlar ve pek çok teknoloji ürünü, yazılım ile değer kazanmaktadır. Bugün uzay teknolojilerinin önemli bir kısmını da yazılımlar oluşturmaktadır.
@@ -92,15 +106,16 @@ Yazılım uzmanı olmak için sabırlı ve çalışkan olmak, en önemlisi de ya
 Yazılım uzmanı denildiğinde akla gelen ilk konu programlama dilleridir. Ancak başarılı bir yazılım uzmanı bundan fazlasını bilmek zorundadır.
 
 ![Stackoverflow Surver 2020](/assets/blog/stackoverflow-surver-2020-langs.png)
-StackOverflow sitesinin [2020 anketine ](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted) göre göre en çok öğrenilmek istenen programlama dillerinin başında Python geliyor.
+StackOverflow sitesinin
+[2020 anketine](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted) göre göre en çok öğrenilmek istenen programlama dillerinin başında Python geliyor.
 
 Popüler programlama dilleri:
 
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Java](https://www.java.com/tr/)
 - [C#](https://docs.microsoft.com/tr-tr/dotnet/csharp/)
-- [PHP](http://php.net/)
+- [PHP](http://php.net)
 - [Ruby](https://www.ruby-lang.org/tr/)
 
 _Yazılım geliştirme metodları:_
