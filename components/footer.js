@@ -146,10 +146,6 @@ export default function PageFooter() {
           </svg>{' '}
           by Ertan Kayalar &copy; 2016 - {new Date().getFullYear()}. Tüm hakları
           saklıdır. <span>İzinsiz kopyalanamaz.</span>
-          {'  '}
-          <Link href='/credits'>
-            <a className='text-accent hover:text-primary'>Credits</a>
-          </Link>
         </div>
       </div>
     </footer>
