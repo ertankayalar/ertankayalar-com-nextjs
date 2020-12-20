@@ -17,17 +17,23 @@ export default function Post({ postData }) {
         }
         canonical={process.env.url + postData.id}
         openGraph={{
-          type: 'website',
-          url: process.env.url + postData.id,
           title: postData.title + ' - ' + SITE_TITLE,
           description: postData.SeoDescription
             ? postData.SeoDescription
             : SEO_DESCRIPTION,
+          url: process.env.url + postData.id,
+          type: 'article',
+          article: {
+            publishedTime: postData.date,
+            //modifiedTime: '2018-01-21T18:04:43Z',
+            section: 'blog',
+            authors: [process.env.url + 'hakkimda'],
+          },
           images: [
             {
-              url: process.env.url + 'assets/og-800x600.png',
-              width: 800,
-              height: 600,
+              url: process.env.url + 'assets/og-850x650.png',
+              width: 850,
+              height: 650,
               alt: postData.title,
             },
           ],
