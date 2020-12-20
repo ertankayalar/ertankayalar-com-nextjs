@@ -12,6 +12,20 @@ export default function Blog({ allPostsData }) {
         title={'Web Development Yazıları - ' + SITE_TITLE}
         description='Web sitesi geliştirme, girişimcilik ile ilgili yazılar'
         canonical={process.env.url + 'blog'}
+        openGraph={{
+          type: 'website',
+          url: process.env.url + 'blog',
+          title: 'Ertan Kayalar Blog',
+          description: 'Ertan Kayalar Blog Yazıları',
+          images: [
+            {
+              url: process.env.url + 'assets/og-800x600.png',
+              width: 800,
+              height: 600,
+              alt: 'Ertan Kayalar Blog Yazıları',
+            },
+          ],
+        }}
       />
       <Container>
         <article className='px-2 my-2 lg:my-5'>

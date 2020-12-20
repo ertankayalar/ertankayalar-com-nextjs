@@ -28,17 +28,8 @@ export default function Layout({ children }) {
         <link rel='mask-icon' href='/safari-pinned-tab.svg' color='#5bbad5' />
         <meta name='msapplication-TileColor' content='#da532c' />
         <meta name='theme-color' content='#ffffff' />
-
-        <meta name='description' content='Ertan Kayalar Web Sitesi' />
-        <meta
-          property='og:image'
-          content={`https://og-image.now.sh/${encodeURI(
-            process.env.url
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
-        />
-        <meta name='og:title' content={SITE_TITLE} />
-        <meta name='twitter:card' content='summary_large_image' />
       </Head>
+
       <Header siteTitle={SITE_TITLE} />
       <div className='min-h-full'>
         <main>{children}</main>

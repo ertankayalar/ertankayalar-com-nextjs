@@ -12,6 +12,20 @@ export default function contact() {
         title={'İletişim - ' + SITE_TITLE}
         description='Ertan Kayalar İletişim Sayfası'
         canonical={process.env.url + 'iletisim'}
+        openGraph={{
+          type: 'website',
+          url: process.env.url + 'iletisim',
+          title: 'Ertan Kayalar İletişim',
+          description: 'Full-stack Web Developer Ertan Kayalar İletişim',
+          images: [
+            {
+              url: process.env.url + 'assets/og-800x600.png',
+              width: 800,
+              height: 600,
+              alt: 'Full-stack Web Developer Ertan Kayalar İletişim',
+            },
+          ],
+        }}
       />
 
       <Container>

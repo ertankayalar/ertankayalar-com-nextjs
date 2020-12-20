@@ -17,24 +17,39 @@ export default function credits() {
 
       <Container>
         <div className='w-full text-gray-600 mx-2'>
-          <h1 className='text-3xl mt-10'>Credits</h1>
-          <Content>
-            <ExtLink className='py-1 block' href='https://tailwindcss.com'>
+          <h1 className='text-3xl my-10'>Credits</h1>
+          <div className='text-md'>
+            <ExtLink
+              className='my-1 block text-accent hover:text-primary'
+              href='https://tailwindcss.com'
+            >
               Tailwindcss
             </ExtLink>
-            <ExtLink className='py-1 block' href='https://nextjs.org'>
+            <ExtLink
+              className='my-1 block text-accent hover:text-primary'
+              href='https://nextjs.org'
+            >
               NextJS
             </ExtLink>
-            <ExtLink className='py-1 block' href='https://reactjs.org'>
+            <ExtLink
+              className='my-1 block text-accent hover:text-primary'
+              href='https://reactjs.org'
+            >
               ReactJS
             </ExtLink>
-            <ExtLink className='py-1 block' href='https://fontawesome.com'>
+            <ExtLink
+              className='my-1 block text-accent hover:text-primary'
+              href='https://fontawesome.com'
+            >
               Fontawesome
             </ExtLink>
-            <ExtLink className='py-1 block' href='https://heroicons.com'>
+            <ExtLink
+              className='my-1 block text-accent hover:text-primary'
+              href='https://heroicons.com'
+            >
               Heroicons
             </ExtLink>
-          </Content>
+          </div>
         </div>
       </Container>
     </Layout>

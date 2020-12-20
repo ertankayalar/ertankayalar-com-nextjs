@@ -10,8 +10,22 @@ export default function Home() {
     <Layout>
       <NextSeo
         title='Fullstack Web Developer - Ertan Kayalar'
-        description='React, Django, Symfony, Laravel Web Developer'
+        description='React, Django, Symfony, Laravel Full-stack Web Developer'
         canonical={process.env.url}
+        openGraph={{
+          type: 'website',
+          url: process.env.url,
+          title: 'Ertan Kayalar',
+          description: 'Full-stack Web Developer Ertan Kayalar',
+          images: [
+            {
+              url: process.env.url + 'assets/og-800x600.png',
+              width: 800,
+              height: 600,
+              alt: 'Full-stack Web Developer Ertan Kayalar',
+            },
+          ],
+        }}
       />
 
       <Hero />

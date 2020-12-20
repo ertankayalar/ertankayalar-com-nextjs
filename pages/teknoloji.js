@@ -11,6 +11,20 @@ export default function contact() {
         title={'Kullandığım Web Development Teknolojileri - ' + SITE_TITLE}
         description='Fullstack web sitesi geliştirme teknolojileri'
         canonical={process.env.url + 'teknoloji'}
+        openGraph={{
+          type: 'website',
+          url: process.env.url + 'teknoloji',
+          title: 'Teknolojiler',
+          description: 'Kullandığım Web Sitesi Geliştirme Teknolojileri',
+          images: [
+            {
+              url: process.env.url + 'assets/og-800x600.png',
+              width: 800,
+              height: 600,
+              alt: 'Kullandığım Teknolojiler',
+            },
+          ],
+        }}
       />
       <Container>
         <article className='px-2'>

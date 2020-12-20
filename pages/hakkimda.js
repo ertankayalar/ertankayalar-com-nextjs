@@ -12,6 +12,20 @@ export default function about() {
         title='Ertan Kayalar Hakkında - Fullstack Web Developer'
         description='Yazılım geliştirici Ertan Kayalar hakkında - Fullstack Web Developer, React, Django, Symfony ve Laravel PHP Framework developer'
         canonical={process.env.url + 'hakkimda'}
+        openGraph={{
+          type: 'website',
+          url: process.env.url + 'hakkimda',
+          title: 'Ertan Kayalar Hakkında',
+          description: 'Yazılım geliştirici Ertan Kayalar hakkında',
+          images: [
+            {
+              url: process.env.url + 'assets/og-800x600.png',
+              width: 800,
+              height: 600,
+              alt: 'Ertan Kayalar Hakkında',
+            },
+          ],
+        }}
       />
       <Container>
         <section className='w-full flex flex-col md:flex-row flex-wrap my-3 md:my-5 lg:my-20'>

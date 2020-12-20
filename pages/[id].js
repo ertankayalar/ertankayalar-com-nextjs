@@ -16,6 +16,22 @@ export default function Post({ postData }) {
           postData.SeoDescription ? postData.SeoDescription : SEO_DESCRIPTION
         }
         canonical={process.env.url + postData.id}
+        openGraph={{
+          type: 'website',
+          url: process.env.url + postData.id,
+          title: postData.title + ' - ' + SITE_TITLE,
+          description: postData.SeoDescription
+            ? postData.SeoDescription
+            : SEO_DESCRIPTION,
+          images: [
+            {
+              url: process.env.url + 'assets/og-800x600.png',
+              width: 800,
+              height: 600,
+              alt: postData.title,
+            },
+          ],
+        }}
       />
       <Container>
         <article className='w-full mt-10 mb-32 px-2'>
