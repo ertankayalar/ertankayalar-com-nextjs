@@ -3,7 +3,6 @@ import { NextSeo } from 'next-seo'
 import { SITE_TITLE } from '../lib/constants'
 import Container from '../components/container'
 import ExtLink from '../components/extlink'
-import Content from '../components/content'
 
 export default function credits() {
   return (

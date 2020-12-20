@@ -51,7 +51,7 @@ export default function contact() {
                 <span className='font-bold'>Tercih ettiğim</span> iletişim yolu
                 <Link
                   href='https://twitter.com/ertankayalar'
-                  className='cursor-pointer'
+                  className='cursor-pointer '
                 >
                   <a className='text-accent hover:text-accent-dark'>
                     <svg
@@ -75,7 +75,7 @@ export default function contact() {
                 veya{' '}
                 <Link
                   href='mailto:ertan@ertankayalar.com'
-                  className='cursor-pointer'
+                  className='cursor-pointer '
                 >
                   <a className='text-accent hover:text-accent-dark'>
                     <svg
