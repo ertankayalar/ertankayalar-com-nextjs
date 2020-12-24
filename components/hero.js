@@ -8,7 +8,7 @@ export default function Hero() {
           <img
             src='/assets/ertan-kayalar-21-small-150x150.jpg'
             alt='ertan kayalar'
-            className='rounded'
+            className='rounded-full'
           />
         </div>
 
