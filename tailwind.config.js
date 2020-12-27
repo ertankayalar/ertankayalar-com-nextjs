@@ -60,9 +60,9 @@ module.exports = {
         },
       },
       fontFamily: {
-        body: ['Montserrat'],
+        body: ['Roboto'],
         sans: [
-          'Montserrat',
+          'Roboto',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',
