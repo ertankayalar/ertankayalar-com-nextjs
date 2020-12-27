@@ -60,9 +60,9 @@ module.exports = {
         },
       },
       fontFamily: {
-        body: ['Poppins'],
+        body: ['Montserrat'],
         sans: [
-          'Poppins',
+          'Montserrat',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',

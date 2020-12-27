@@ -1,11 +1,11 @@
 import Link from 'next/link'
 
 const links = [
-  { href: '/', label: 'Giriş' },
-  { href: '/hakkimda', label: 'Hakkımda' },
+  { href: '/', label: 'Home' },
+  { href: '/about', label: 'About' },
   { href: '/blog', label: 'Blog' },
-  { href: '/teknoloji', label: 'Teknolojiler' },
-  { href: '/iletisim', label: 'İletişim' },
+  { href: '/uses', label: 'Uses' },
+  { href: '/contact', label: 'Contact Me' },
 ]
 
 export default function Nav() {
@@ -19,36 +19,29 @@ export default function Nav() {
         </Link>
       ))}
 
-      <Link href='https://ertankayalar.com'>
-        <a>
+      <Link href='https://ertankayalar.com.tr'>
+        <a title='Türkçe'>
           <svg
             xmlns='http://www.w3.org/2000/svg'
             // height='480'
             // width='640'
-            viewBox='0 0 640 480'
             className='w-8 h-4'
+            viewBox='0 0 640 480'
           >
-            <defs>
-              <clipPath id='a'>
-                <path fill-opacity='.67' d='M-85.333 0h682.67v512h-682.67z' />
-              </clipPath>
-            </defs>
-            <g clip-path='url(#a)' transform='translate(80) scale(.94)'>
-              <g stroke-width='1pt'>
-                <path fill='#006' d='M-256 0H768.02v512.01H-256z' />
-                <path
-                  d='M-256 0v57.244l909.535 454.768H768.02V454.77L-141.515 0H-256zM768.02 0v57.243L-141.515 512.01H-256v-57.243L653.535 0H768.02z'
-                  fill='#fff'
-                />
-                <path
-                  d='M170.675 0v512.01h170.67V0h-170.67zM-256 170.67v170.67H768.02V170.67H-256z'
-                  fill='#fff'
-                />
-                <path
-                  d='M-256 204.804v102.402H768.02V204.804H-256zM204.81 0v512.01h102.4V0h-102.4zM-256 512.01L85.34 341.34h76.324l-341.34 170.67H-256zM-256 0L85.34 170.67H9.016L-256 38.164V0zm606.356 170.67L691.696 0h76.324L426.68 170.67h-76.324zM768.02 512.01L426.68 341.34h76.324L768.02 473.848v38.162z'
-                  fill='#c00'
-                />
-              </g>
+            <g fill-rule='evenodd'>
+              <path fill='#f31930' d='M0 0h640v480H0z' />
+              <path
+                d='M406.977 247.473c0 66.215-54.606 119.89-121.97 119.89S163.04 313.686 163.04 247.472s54.606-119.89 121.968-119.89 121.97 53.677 121.97 119.89z'
+                fill='#fff'
+              />
+              <path
+                d='M413.077 247.467c0 52.97-43.686 95.91-97.575 95.91s-97.574-42.94-97.574-95.91 43.686-95.91 97.574-95.91 97.575 42.94 97.575 95.91z'
+                fill='#f31830'
+              />
+              <path
+                d='M430.726 191.465l-.985 44.318-41.345 11.225 40.756 14.514-.984 40.642 26.58-31.738 40.164 13.934-23.233-34.06 28.352-33.868-43.513 11.998-25.793-36.964z'
+                fill='#fff'
+              />
             </g>
           </svg>
         </a>

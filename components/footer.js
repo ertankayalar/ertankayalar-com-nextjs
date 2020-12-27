@@ -22,12 +22,12 @@ export default function PageFooter() {
                 ></path>
               </svg>
 
-              <div>Giriş</div>
+              <div>Home</div>
             </a>
           </Link>
         </li>
         <li className='font-semibold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
-          <Link href='/blog/'>
+          <Link href='/blog'>
             <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary'>
               <svg
                 className='w-6 h-6 text-accent'
@@ -48,7 +48,7 @@ export default function PageFooter() {
           </Link>
         </li>
         <li className='font-semibold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
-          <Link href='/hakkimda/'>
+          <Link href='/about'>
             <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary'>
               <svg
                 className='w-6 h-6 text-accent'
@@ -64,12 +64,12 @@ export default function PageFooter() {
                   d='M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z'
                 ></path>
               </svg>
-              <div>Hakkımda</div>
+              <div>About</div>
             </a>
           </Link>
         </li>
         <li className='font-semibold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
-          <Link href='/teknoloji/'>
+          <Link href='/uses'>
             <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary'>
               <svg
                 className='w-6 h-6 text-accent'
@@ -85,12 +85,12 @@ export default function PageFooter() {
                   d='M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z'
                 ></path>
               </svg>
-              <div>Teknolojiler</div>
+              <div>Uses</div>
             </a>
           </Link>
         </li>
         <li className='font-semibold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
-          <Link href='/iletisim/'>
+          <Link href='/contact'>
             <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary'>
               <svg
                 className='w-6 h-6 text-accent'
@@ -106,7 +106,7 @@ export default function PageFooter() {
                   d='M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z'
                 ></path>
               </svg>
-              <div>İletişim</div>
+              <div>Contact Me</div>
             </a>
           </Link>
         </li>
@@ -144,8 +144,8 @@ export default function PageFooter() {
               d='M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z'
             ></path>
           </svg>{' '}
-          by Ertan Kayalar &copy; 2016 - {new Date().getFullYear()}. Tüm hakları
-          saklıdır. <span>İzinsiz kopyalanamaz.</span>
+          by Ertan Kayalar &copy; 2016 - {new Date().getFullYear()}. All rights
+          reserved.
         </div>
       </div>
     </footer>
