@@ -9,8 +9,8 @@ export default function my404() {
   return (
     <Layout home layoutFormat='fullwidth'>
       <NextSeo
-        title={'404 Bulunamadı - ' + SITE_TITLE}
-        description='bulunamadı'
+        title={'404 Not found - ' + SITE_TITLE}
+        description='404 not found'
         canonical={process.env.url + '404'}
         noindex={true}
       />
@@ -31,10 +31,8 @@ export default function my404() {
             />
           </svg>
 
-          <h1 className='text-3xl py-2 lg:py-5 text-strong'>
-            404 - Sayfa Bulunamadı
-          </h1>
-          <div>Aradığınız sayfa bulunamadı.</div>
+          <h1 className='text-3xl py-2 lg:py-5 text-strong'>404 - Not found</h1>
+          <div>Your searched not found.</div>
         </div>
       </Container>
     </Layout>

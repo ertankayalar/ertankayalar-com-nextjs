@@ -4,6 +4,7 @@ import Image from 'next/image'
 import { NextSeo } from 'next-seo'
 import { SITE_TITLE } from '../lib/constants'
 import Container from '../components/container'
+import Social from '../components/social'
 
 export default function contact() {
   return (
@@ -73,7 +74,8 @@ export default function contact() {
               </p>
 
               <p>But you can follow on social media and send message:</p>
-              <p className=' w-full flex items-center  justify-center md:justify-start my-1  text-sm'>
+              <Social />
+              {/* <p className=' w-full flex items-center  justify-center md:justify-start my-1  text-sm'>
                 <Link href='https://twitter.com/ertankayalar/'>
                   <a className='block mx-2 text-primary hover:text-accent'>
                     <svg
@@ -142,7 +144,7 @@ export default function contact() {
                     </svg>
                   </a>
                 </Link>
-              </p>
+              </p> */}
             </div>
           </article>
         </div>

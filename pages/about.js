@@ -5,6 +5,7 @@ import { NextSeo } from 'next-seo'
 import Layout from '../components/layout'
 import Container from '../components/container'
 import Expertise from '../components/expertise'
+import Button from '../components/button'
 
 export default function about() {
   return (
@@ -73,11 +74,14 @@ export default function about() {
                   Startup, marketing and of course new technologies about web
                   and mobile development.
                 </p>
+                <p className='py-10'>
+                  <Button href='/contact'>Contact Me</Button>
+                </p>
               </div>
             </article>
           </div>
         </section>
-        <Expertise />
+        <Expertise darkMode />
       </Container>
     </Layout>
   )

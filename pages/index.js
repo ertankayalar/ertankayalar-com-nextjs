@@ -30,7 +30,7 @@ export default function Home() {
       />
 
       <Hero />
-      <div className='w-full bg-primary-dark text-gray-50'>
+      <div className='w-full bg-strong text-gray-50'>
         <Container>
           <div className='w-full flex flex-row flex-wrap py-5 '>
             <div className='w-full md:w-2/12 flex justify-center'>
