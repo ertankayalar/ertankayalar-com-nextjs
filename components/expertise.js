@@ -1,7 +1,18 @@
-export default function Expertise() {
+export default function Expertise({ darkMode = false }) {
+  var modeClass = 'bg-bright-lightest text-strong'
+  console.log('darkMode', darkMode)
+
+  if (darkMode == true) {
+    modeClass = 'bg-strong text-bright-darkest'
+  }
+
   return (
-    <div className='w-full flex flex-row flex-wrap py-5 bg-gray-50 rounded my-5'>
-      <div className='w-full text-center text-strong-dark font-bold py-10'>
+    <div
+      className={
+        'w-full flex flex-row flex-wrap py-5 rounded my-5 ' + modeClass
+      }
+    >
+      <div className='w-full text-center  font-bold py-10'>
         <h2 className='text-xl'>My Expertise</h2>
       </div>
       <div className='w-full md:w-1/2 flex mb-5 md:mb-0'>
@@ -12,7 +23,7 @@ export default function Expertise() {
               focusable='false'
               data-prefix='fas'
               data-icon='mobile'
-              className='h-12 w-12 md:h-16 md:w-16 text-gray-300'
+              className='h-12 w-12 md:h-16 md:w-16 text-secondary'
               role='img'
               xmlns='http://www.w3.org/2000/svg'
               viewBox='0 0 320 512'
@@ -24,11 +35,11 @@ export default function Expertise() {
             </svg>
           </div>
         </div>
-        <div className='w-5/6 text-base  text-gray-500'>
+        <div className='w-5/6 text-base'>
           <h2 className='text-lg text-primary font-medium'>
             Frontend Development
           </h2>
-          <p className='h-28 md:h-32 pt-1'>
+          <p className='h-28 md:h-32 pt-1 '>
             I'm huge fan of React.js/Next.js and Tailwind CSS for frontend
             tasks. I love rapid development and quick solutions.
           </p>
@@ -57,7 +68,7 @@ export default function Expertise() {
               focusable='false'
               data-prefix='fas'
               data-icon='server'
-              className='h-12 w-12 md:h-16 md:w-16 text-gray-300'
+              className='h-12 w-12 md:h-16 md:w-16 text-secondary'
               role='img'
               xmlns='http://www.w3.org/2000/svg'
               viewBox='0 0 512 512'
@@ -69,7 +80,7 @@ export default function Expertise() {
             </svg>
           </div>
         </div>
-        <div className='w-5/6 text-md text-gray-500  md:pl-2'>
+        <div className='w-5/6 text-md   md:pl-2'>
           <h2 className='text-lg text-primary font-medium'>
             Backend Development
           </h2>

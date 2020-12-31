@@ -1,12 +1,13 @@
 import Link from 'next/link'
+import Social from './social'
 
 export default function PageFooter() {
   return (
     <footer>
-      <ul className='bottom-navigation fixed bottom-0 left-0 z-20 bg-gray-100 text-gray-600 w-full flex items-center justify-evenly lg:hidden h-20 text-xs md:text-md lg:text-lg'>
+      <ul className='bottom-navigation fixed bottom-0 left-0 z-20 bg-bright-dark text-strong w-full flex items-center justify-evenly lg:hidden h-20 text-xs md:text-md lg:text-lg'>
         <li className='font-semibold flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out'>
           <Link href='/'>
-            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-primary'>
+            <a className='flex flex-col items-center justify-center flex-no-wrap transition duration-500 ease-out hover:text-accent'>
               <svg
                 className='w-6 h-6 text-accent'
                 fill='none'
@@ -112,8 +113,8 @@ export default function PageFooter() {
         </li>
       </ul>
 
-      <div className='w-full text-gray-600 py-10 border-t mt-20 mb-20'>
-        <div className='container text-center text-sm md:text-md mx-auto '>
+      <div className='w-full  py-10 border-t mt-20 mb-20'>
+        <div className='container text-center text-sm md:text-md mx-auto text-gray-600 '>
           <svg
             className='w-6 h-6 inline-block m-2'
             fill='none'
@@ -146,6 +147,7 @@ export default function PageFooter() {
           </svg>{' '}
           by Ertan Kayalar &copy; 2016 - {new Date().getFullYear()}. All rights
           reserved.
+          <Social isFooter='true' />
         </div>
       </div>
     </footer>
