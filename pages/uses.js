@@ -67,8 +67,8 @@ export default function contact() {
 
                 <li>
                   Code Editor Theme{' ~ '}
-                  <ExtLink href='https://marketplace.visualstudio.com/items?itemName=teabyii.ayu'>
-                    Ayu Mirage
+                  <ExtLink href='https://marketplace.visualstudio.com/items?itemName=sdras.night-owl'>
+                    Night Owl Light
                   </ExtLink>
                 </li>
                 <li>

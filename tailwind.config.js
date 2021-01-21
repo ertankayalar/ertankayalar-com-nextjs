@@ -60,9 +60,9 @@ module.exports = {
         },
       },
       fontFamily: {
-        body: ['Roboto'],
+        body: ['Inter'],
         sans: [
-          'Roboto',
+          'Inter',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',

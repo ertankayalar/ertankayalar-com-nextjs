@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Hero() {
   return (
-    <div className='w-full bg-gray-50 bg-gradient-to-br from-gray-50 to-gray-200 py-10 lg:py-16'>
+    <div className='w-full bg-gray-50 bg-gradient-to-b from-white to-gray-100 py-10 lg:py-16'>
       <div className='flex flex-wrap max-w-screen-sm mx-auto'>
         <div className='w-full md:w-1/4 flex flex-wrap content-center justify-center'>
           <img

@@ -19,7 +19,7 @@ class PageHeader extends React.Component {
 
   render() {
     return (
-      <header className='w-full  bg-white border-b '>
+      <header className={this.className ? this.className : 'w-full bg-white '}>
         <section className=' mx-auto max-w-screen-sm md:max-w-screen-sm lg:max-w-screen-lg grid grid-flow-col grid-cols-1 sm:grid-cols-3'>
           <div className='col-span-3 lg:col-span-1 flex justify-center items-center md:justify-start py-5 h-24 md:pl-2 '>
             <span className='text-3xl text-gray-700 mx-auto lg:ml-0'>

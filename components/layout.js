@@ -30,7 +30,7 @@ export default function Layout({ children }) {
         <meta name='theme-color' content='#ffffff' />
       </Head>
 
-      <Header siteTitle={SITE_TITLE} />
+      <Header siteTitle={SITE_TITLE} className='w-full bg-white' />
       <div className='min-h-full'>
         <main>{children}</main>
       </div>
