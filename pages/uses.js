@@ -14,9 +14,9 @@ export default function contact() {
         canonical={process.env.url + 'uses'}
         openGraph={{
           type: 'website',
-          url: process.env.url + 'teknoloji',
-          title: 'Teknolojiler',
-          description: 'Kullandığım Web Sitesi Geliştirme Teknolojileri',
+          url: process.env.url + 'uses',
+          title: 'Uses',
+          description: 'Technologies as a Fullstack Web Developer ',
           images: [
             {
               url: process.env.url + 'assets/og-800x600.png',
