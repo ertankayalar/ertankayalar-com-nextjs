@@ -11,7 +11,6 @@ export default function credits() {
         title={'Credits - ' + SITE_TITLE}
         description='Credits'
         canonical={process.env.url + 'credits'}
-        noindex={true}
       />
 
       <Container>

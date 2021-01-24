@@ -161,7 +161,7 @@ module.exports = withMDX({
       },
       {
         source: '/dijital-pazarlama/marka-hikayesi-yaratmak',
-        destination: pazarlamainfotr + '/marka-hikayesi-yaratmak',
+        destination: pazarlamainfotr + '/markanizin-hikayesini-yaratin',
         permanent: true,
       },
       {
