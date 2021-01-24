@@ -96,7 +96,7 @@ module.exports = withMDX({
       },
       {
         source: '/neden-linux',
-        destination: '/neden-linux',
+        destination: ertankayalarcomtr + '/neden-linux',
         permanent: true,
       },
       {
@@ -125,7 +125,7 @@ module.exports = withMDX({
         permanent: true,
       },
       {
-        source: '/dijital-pazarlama/musteri-odakli-dusunun  ',
+        source: '/dijital-pazarlama/musteri-odakli-dusunun',
         destination: pazarlamainfotr + '/musteri-odakli-dusunun',
         permanent: true,
       },
@@ -180,6 +180,11 @@ module.exports = withMDX({
         permanent: true,
       },
       {
+        source: '/dijital-pazarlama/sosyal-medya-pazarlama',
+        destination: pazarlamainfotr + '/sosyal-medya-pazarlama',
+        permanent: true,
+      },
+      {
         source: '/dijital-pazarlama/arama-motoru-pazarlamasi',
         destination: pazarlamainfotr + '/arama-motoru-pazarlamasi',
         permanent: true,
@@ -192,6 +197,11 @@ module.exports = withMDX({
       {
         source: '/dijital-pazarlama/icerik-pazarlamasi',
         destination: pazarlamainfotr + '/icerik-pazarlamasi-yapin',
+        permanent: true,
+      },
+      {
+        source: '/dijital-pazarlama/dijital-pazarlama-kanallari',
+        destination: pazarlamainfotr + '/dijital-pazarlama-kanallari',
         permanent: true,
       },
       {
