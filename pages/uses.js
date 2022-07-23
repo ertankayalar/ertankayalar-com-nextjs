@@ -73,7 +73,7 @@ export default function contact() {
                                     </ExtLink>
                                 </li>
                                 <li>
-                                    Code Editör Font{" ~ "}
+                                    Code Editor Font{" ~ "}
                                     <ExtLink href="https://github.com/JetBrains/JetBrainsMono">
                                         JetBrains Mono
                                     </ExtLink>
